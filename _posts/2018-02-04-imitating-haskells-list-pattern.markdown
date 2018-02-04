@@ -17,9 +17,9 @@ The following is an example that incorporates the mentioned feature, a length me
 length’ :: [a] -> Int
 -- If the input is an empty list, return 0
 length’ [] = 0
--- If the input is one element, return 1
-length’ [a] = 1
--- Return 1 and add what results in using length on the rest of the list
+-- If the input is one element (here \_, because we don't need the element), return 1
+length’ [\_] = 1
+-- Return 1 and adds what results in using length on the rest of the list
 length’ (x:xs) = 1 + length’ xs
 {% endhighlight %}
 
