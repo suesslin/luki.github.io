@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Imtating Haskell's List Pattern"
+title:  "Imitating Haskell's List Pattern"
 date:   2018-02-04 13:43:00 +0100
 categories: programming haskell swift
 ---
