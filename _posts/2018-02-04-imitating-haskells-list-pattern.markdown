@@ -4,6 +4,10 @@ title:  "Imitating Haskell's List Pattern"
 date:   2018-02-04 13:43:00 +0100
 categories: programming haskell swift
 ---
+## Note
+Before reading, note that prior knowledge of Haskell or functional programming is not required. 
+
+## Article
 Recently, I’ve been looking into Haskell and particularly one feature appealed to me while using it, which is (x:xs) in the pattern matching of lists, where x is the current element, the so called ‘head’, and xs the rest of the list, the so called ‘tail’. Here is an example of writing a length method for lists in Haskell:
 
 {% highlight haskell %}
