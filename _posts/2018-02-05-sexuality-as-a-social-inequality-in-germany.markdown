@@ -2,7 +2,7 @@
 layout: post
 title:  "Sexuality as A Social Inequality in Germany"
 date:   2018-02-05 20:47:00 +0100
-categories: school research social inequality sexuality homosexuality
+categories: school
 ---
 # Introduction
 
