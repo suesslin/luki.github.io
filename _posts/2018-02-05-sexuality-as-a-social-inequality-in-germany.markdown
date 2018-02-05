@@ -29,7 +29,7 @@ While heterosexual men earn 18 euros, a homosexual man only earns 15.86 euros, m
 
 This means that gay men, given the same conditions as age and industry, earn less than their heterosexual counterparts, despite the fact they’ve been more well educated.
 
-## Countermeasure: More studies / data on homosexual people
+## 2. Countermeasure: More studies / data on homosexual people
 Since more studies would portrait the described inequality in more detail, it would eventually prove or discount whether or not the lower wages are actually a discrimination against homosexual men or not. Regarding this, the authors of the study say that this “has not yet statistically proven a wage discrimination of gay men at the workplace”.
 Moreover, the reduction of homophobia is likely. Since more data raises the awareness of the living conditions of homosexual people, this might eventually lead to the change of the behavior of society. The European Union pleads for my second reasons as well according to the ‘Zeit’: “Even the EU recommends to regularly share comparable data on conditions of lesbian women, gay men and bisexual and transexual people in order to control homophobia and sexual discrimination”.
 
