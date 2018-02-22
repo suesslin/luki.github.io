@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Sexuality as A Social Inequality in Germany"
+date:   2018-02-05 20:47:00 +0100
+categories: school
+---
+# Introduction
 Last week, I got to present my research on a social inequality in Germany. The task was to pick an inequality, find supporting news articles that prove it that aren’t older than 2 years and sum it up on one DIN A4 page in a certain format.
 
 I went for ‘Sexuality as an inequality’ and got 100% (15 points) on my presentation + work. Since I love sharing findings, I liberally translated my work, as well as the quotes I incorporated.
@@ -8,6 +15,7 @@ Lukas Mueller
 1sk2, Holbein-Gymnasium Augsburg
 12.12.2017
 
+# Research
 ## 1. Description: Lower hourly wages of homosexual men
 The social inequality I would like to address is the sexuality of people. While researching whether it occurs as a social inequality or not, I stumbled across reports of multiple well-known newspapers (e.g. Zeit, Sueddeutsche, Spiegel) on a study of the German Institute of Economic Research. The research study in question reports on points to lower wages of homosexual men. Inter alia, 'Die Zeit' reports some of the following:
 
