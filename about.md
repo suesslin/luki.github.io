@@ -59,8 +59,9 @@ Eventually, I'd love to live in the west of the US, maybe California, alternativ
 + **Coding langs:**   Haskell, Rust, Swift
 + **Anime:**          Sakurasou No Pet Na Kanojo, Bakuman
 + **Colors:**         (Pastel-) Pink, Red, Green, Turquoise
-+ **Ideology**        Social Anarchism/Anarcho Socialism
-+ **Diet**            Vegetarianism
++ **Politics:**       Anarcho Socialism
++ **Diet:**           Vegetarianism
 + **Religion:**       Agnostic/Atheistism, (Taoism?)
 + **Sexuality:**      Heterosexual
 + **Languages:**      German, English; Spanish (2nd year, school)
++ **Heritage:**       Bavarian; Sicily-Italian (Maternal great-great-grandmother)
