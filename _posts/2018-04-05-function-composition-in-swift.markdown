@@ -56,7 +56,7 @@ func addFour<T: Numeric>(n: T) -> T {
 (multiplyThree ° addFour)(2) // Returns 18
 {% endhighlight %}
 
-The precedencegroup sole use is to make our following '°' infix operator left associative. The signature of its ... function
+The precedence group's sole use is to make our following '°' infix operator left associative. The signature of its ... function
 is very interesting, let's have a look at it.
 
 We have three generic types - T, U and V.
