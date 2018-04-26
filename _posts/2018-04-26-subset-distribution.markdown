@@ -4,6 +4,8 @@ title:  "Subset Distribution"
 date:   2018-04-26 23:40:00 +0100
 categories: organizing
 ---
+An Unconventional Method of Brainstorming
+An idea of [Lukas A. Mueller](http://lukasam.com) and [Axel Boberg](http://axelboberg.se)
 
 ## Introduction
 Most likely everyone has played 'telephone', also known as 'Chinese whispers'
