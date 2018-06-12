@@ -28,6 +28,13 @@ Beside studies, I spend my time reading about various topics, i.a. Computer Scie
 _Conclusion_: Thanks to these internships, I've concluded that I do not want to work at agencies in the future. I am very grateful for these opportunities and for all that I have learnt while being there.
 
 ### Additional
+* May 2018
+  * Jugend hackt Cologne, 3-days-hackathon
+  * The team was made of: Two guys, two mentors and myself
+  * Worked on syncslate, a video-cutting tool
+    * Used C++
+    * Worked with Open Broadcaster Software
+    * Worked with FFmpeg
 * October 2017
   * Jugend hackt Tokyo, 3-days-hackathon
   * The hackathon was part of a week's trip to Tokyo
@@ -54,14 +61,13 @@ Eventually, I'd love to live in the west of the US, maybe California, alternativ
 
 ## Preferences/Personality/Knowledge
 + **Pronouns:**       He/Him/His
-+ **Music Genres:**   Classic Rock, Psychedelic Rock
-+ **Music Artists:**  Tame Impala, Led Zeppelin, Steppenwolf, Queen
++ **Music Genres:**   Funk, Classic Rock, Psychedelic Rock
++ **Music Artists:**  Tame Impala, Michael Jackson, Jackson 5
 + **Coding langs:**   Haskell, Rust, Swift
 + **Anime:**          Sakurasou No Pet Na Kanojo, Bakuman
-+ **Colors:**         (Pastel-) Pink, Red, Green, Turquoise
-+ **Politics:**       Anarcho Socialism
++ **Politics:**       Anarcho Communism
 + **Diet:**           Vegetarianism
-+ **Religion:**       Agnostic/Atheistism, (Taoism?)
++ **Religion:**       It's complicated
 + **Sexuality:**      Heterosexual
 + **Languages:**      German, English; Spanish (2nd year, school)
 + **Heritage:**       Bavarian; Sicily-Italian (Maternal great-great-grandmother)
