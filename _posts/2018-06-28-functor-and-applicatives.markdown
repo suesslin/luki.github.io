@@ -2,7 +2,7 @@
 layout: post
 title:  "Functor and Applicatives in Haskell - An Introductory Explanation"
 date:   2018-06-28 16:45:00 +0100
-categories: functor, applicative, haskell, functional programming
+categories: functor applicative haskell functional-programming
 ---
 Written by Lukas A. Mueller
 
