@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 ## Current Situation
-Currently, I am a junior at Holbein-Gymnasium Augsburg, a university/college-preparatory school. It may be interesting to know that Rudolf Diesel, the inventor of the Diesel engine, though I plead for electric engines nowadays.
-Beside studies, I spend my time reading about various topics, i.a. Computer Science, politics and philosophy or programming some [projects](http://github.com/luki). Additionally, I play the guitar (acoustic and electric) and write as well, as can be seen on this blog. Irregularly, I also try to study Japanese. I know Hiragana and Katakana and some kanji so far.
+Currently, I am a senior at Holbein-Gymnasium Augsburg, a university/college-preparatory school. It may be interesting to know that Rudolf Diesel, the inventor of the Diesel engine. 
+Beside studies, I spend my time reading about various topics, i.a. Computer Science, politics and philosophy or programming some [projects](http://github.com/luki). Additionally, I play the guitar (acoustic and electric) and write as well, as can be seen on this blog. 
 
 ## Experience
 ### Work
@@ -14,7 +14,7 @@ Beside studies, I spend my time reading about various topics, i.a. Computer Scie
   * Software Development Intern
   * At [**Ulysses GmbH & Co. KG**](https://www.ulysses.app), Leipzig
   * Throughout this internship, I worked on two internal tools (+ programming languages/technologies):
-    * Mac Menu Bar (Objective-C)
+    * Mac Menu Bar (Objjuniorective-C)
     * Safari Browser Extension (Swift, Python, JavaScript, HTML, CSS, jQuery)
   * Besides, I got insights into some procedures in Software Development, as well as in design at Ulysses.
 * Aug 9th - Sep 8th, 2017
