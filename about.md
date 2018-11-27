@@ -68,7 +68,7 @@ Eventually, I'd love to live in the west of the US. Portland, Seattle, Salt Lake
 
 ## Preferences/Personality/Knowledge
 + **Pronouns:**       He/Him/His
-+ **Myers-Briggs:**   INTP (
++ **Myers-Briggs:**   INTP (Sometimes INFP; Introversion and Extroversion close)
 + **Music Artists:**  Brockhampton, Tame Impala, Michael Jackson, Jackson 5/The Jacksons
 + **Coding langs:**   Haskell, Rust, Swift
 + **Politics:**       Communism
