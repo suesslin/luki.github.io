@@ -12,7 +12,7 @@ Beside studies, I spend my time reading about various topics, i.a. Computer Scie
 ### Work
 * July 30th - Aug 10th, 2018
   * Software Development Intern
-  * At [**Ulysses GmbH & Co. KG**](https://www.tresmo.de/en/), Leipzig
+  * At [**Ulysses GmbH & Co. KG**](https://www.ulysses.app), Leipzig
   * Throughout this internship, I worked on two internal tools (+ programming languages/technologies):
     * Mac Menu Bar (Objective-C)
     * Safari Browser Extension (Swift, Python, JavaScript, HTML, CSS, jQuery)
