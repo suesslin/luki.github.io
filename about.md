@@ -10,6 +10,13 @@ Beside studies, I spend my time reading about various topics, i.a. Computer Scie
 
 ## Experience
 ### Work
+* July 30th - Aug 10th, 2018
+  * Software Development Intern
+  * At [**Ulysses GmbH & Co. KG**](https://www.tresmo.de/en/), Leipzig
+  * Throughout this internship, I worked on two internal tools (+ programming languages/technologies):
+    * Mac Menu Bar (Objective-C)
+    * Safari Browser Extension (Swift, Python, JavaScript, HTML, CSS, jQuery)
+  * Besides, I got insights into some procedures in Software Development, as well as in design at Ulysses.
 * Aug 9th - Sep 8th, 2017
   * Software Development Intern
   * At [**tresmo GmbH**](https://www.tresmo.de/en/), Augsburg
@@ -56,18 +63,17 @@ _Conclusion_: Thanks to these internships, I've concluded that I do not want to 
 Finals exams are coming up in Spring 2019, afterward, I would like to major in Computer Science, preferably in the US or at Technical University of Munich. As of now, I believe I'd like to focus on IT Security, as well as Machine Learning/Artifical Intelligence. What may come post-academics, I haven't thought of as of now. Working at companies such as Dropbox or Spotify seems worthwhile, though becoming a professor and/or researcher is at least as tempting.
 
 ### Living
-Eventually, I'd love to live in the west of the US, maybe California, alternatively somewhere in Oregon or Seattle, Washington. However, after having spent nearly a week in Japan, I would also like to spend a year or two over there, possibly in Osaka.
+Eventually, I'd love to live in the west of the US. Portland, Seattle, Salt Lake City and Phoenix seem great.
 
 
 ## Preferences/Personality/Knowledge
 + **Pronouns:**       He/Him/His
-+ **Music Genres:**   Funk, Classic Rock, Psychedelic Rock
-+ **Music Artists:**  Tame Impala, Michael Jackson, Jackson 5
++ **Myers-Briggs:**   INTP (
++ **Music Artists:**  Brockhampton, Tame Impala, Michael Jackson, Jackson 5/The Jacksons
 + **Coding langs:**   Haskell, Rust, Swift
-+ **Anime:**          Sakurasou No Pet Na Kanojo, Bakuman
-+ **Politics:**       Anarcho Communism
++ **Politics:**       Communism
 + **Diet:**           Vegetarianism
 + **Religion:**       It's complicated
 + **Sexuality:**      Heterosexual
-+ **Languages:**      German, English; Spanish (2nd year, school)
-+ **Heritage:**       Bavarian; Sicily-Italian (Maternal great-great-grandmother)
++ **Languages:**      German, English; Spanish (3rd year, school)
++ **Heritage:**       German/Bavarian; Northern-Italian (Maternal great-great-grandmother)
