@@ -5,11 +5,10 @@ permalink: /about/
 ---
 
 ## Current Situation
-Currently, I am a senior at Holbein-Gymnasium Augsburg, a university/college-preparatory school. It may be interesting to know that Rudolf Diesel, the inventor of the Diesel engine. 
-Beside studies, I spend my time reading about various topics, i.a. Computer Science, politics and philosophy or programming some [projects](http://github.com/luki). Additionally, I play the guitar (acoustic and electric) and write as well, as can be seen on this blog. 
+Currently, I'm in my first semester studying Computer Science and Computer Linguistics at Ludwig Maximilian University in Munich, Germany. Since my university's located in Munich and my girlfriend lives in Ulm, I'm right between those two places living in Augsburg. Therefore, life's pretty much everything that happens when I'm not riding a train.
 
-## Experience
-### Work
+## CV
+### Internships
 * July 30th - Aug 10th, 2018
   * Software Development Intern
   * At [**Ulysses GmbH & Co. KG**](https://www.ulysses.app), Leipzig
@@ -33,8 +32,11 @@ Beside studies, I spend my time reading about various topics, i.a. Computer Scie
   * Had to commute daily, which was somewhat unplesant, but bearable
 
 _Conclusion_: Thanks to these internships, I've concluded that I do not want to work at agencies in the future. I am very grateful for these opportunities and for all that I have learnt while being there.
-
-### Additional
+### Education
+* since Oct 2019: Ludwig Maximilian University of Munich, Computer Science + Computational Linguistics
+* Sep 2016 - Jun 2019: Holbein-Gymnasium Augsburg, Prep School/Grammar school (Abitur, A-Levels, High School Diploma)
+* Sep 2010 - Jul 2016: Bertolt-Brecht-Realschule Augsburg, Secondary School (Mittlere Reife, GCSEs)
+### Extracurricular
 * May 2018
   * Jugend hackt Cologne, 3-days-hackathon
   * The team was made of: Two guys, two mentors and myself
@@ -57,23 +59,3 @@ _Conclusion_: Thanks to these internships, I've concluded that I do not want to 
     * Some frontend code
     * Introducing one of the girls to UX and UI
     * UX sketches
-
-## Future
-### Studies/Work
-Finals exams are coming up in Spring 2019, afterward, I would like to major in Computer Science, preferably in the US or at Technical University of Munich. As of now, I believe I'd like to focus on IT Security, as well as Machine Learning/Artifical Intelligence. What may come post-academics, I haven't thought of as of now. Working at companies such as Dropbox or Spotify seems worthwhile, though becoming a professor and/or researcher is at least as tempting.
-
-### Living
-Eventually, I'd love to live in the west of the US. Portland, Seattle, Salt Lake City and Phoenix seem great.
-
-
-## Preferences/Personality/Knowledge
-+ **Pronouns:**       He/Him/His
-+ **Myers-Briggs:**   INTP (Sometimes INFP; Introversion and Extroversion close)
-+ **Music Artists:**  Brockhampton, Tame Impala, Michael Jackson, Jackson 5/The Jacksons
-+ **Coding langs:**   Haskell, Rust, Swift
-+ **Politics:**       Communism
-+ **Diet:**           Vegetarianism
-+ **Religion:**       It's complicated
-+ **Sexuality:**      Heterosexual
-+ **Languages:**      German, English; Spanish (3rd year, school)
-+ **Heritage:**       German/Bavarian; Northern-Italian (Maternal great-great-grandmother)
