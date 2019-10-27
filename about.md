@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## Current Situation
-Currently, I'm in my first semester studying Computer Science and Computer Linguistics at Ludwig Maximilian University in Munich, Germany. Since my university's located in Munich and my girlfriend lives in Ulm, I'm right between those two places living in Augsburg. Therefore, life's pretty much everything that happens when I'm not riding a train.
+Currently, I'm in my first semester studying Computer Science and Computational Linguistics at Ludwig Maximilian University in Munich, Germany. Since my university's located in Munich and my girlfriend lives in Ulm, I'm right between those two places living in Augsburg. Therefore, life's pretty much everything that happens when I'm not riding a train.
 
 ## CV
 ### Internships
