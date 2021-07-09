@@ -1,0 +1,17 @@
+baseURL = "http://luki.github.io"
+languageCode = "en-us"
+title = "Lukas Süsslin"
+author = "Lukas Süsslin"
+theme = "contrast-hugo"
+
+[params]
+  minimal = false
+  excerpts = false
+  description = "Ein Blog des Lukas Süsslin."
+
+[menu]
+  [[menu.main]]
+    identifier = "impressum"
+    name = "Impressum"
+    url = "/impressum"
+    weight = 10
