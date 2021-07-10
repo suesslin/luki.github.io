@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://luki.github.io/impressum/</loc>
+    <loc>https://luki.github.io/impressum/</loc>
     <lastmod>2021-07-10T01:30:33+02:00</lastmod>
   </url><url>
-    <loc>http://luki.github.io/posts/hallo-welt/</loc>
+    <loc>https://luki.github.io/posts/hallo-welt/</loc>
     <lastmod>2021-07-10T01:03:07+02:00</lastmod>
   </url><url>
-    <loc>http://luki.github.io/</loc>
+    <loc>https://luki.github.io/</loc>
     <lastmod>2021-07-10T01:03:07+02:00</lastmod>
   </url><url>
-    <loc>http://luki.github.io/posts/</loc>
+    <loc>https://luki.github.io/posts/</loc>
     <lastmod>2021-07-10T01:03:07+02:00</lastmod>
   </url><url>
-    <loc>http://luki.github.io/categories/</loc>
+    <loc>https://luki.github.io/categories/</loc>
   </url><url>
-    <loc>http://luki.github.io/tags/</loc>
+    <loc>https://luki.github.io/tags/</loc>
   </url>
 </urlset>
