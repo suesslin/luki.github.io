@@ -3,7 +3,7 @@ layout: page
 title:  "Contact"
 ---
 
-As long as I am enrolled at Ludwig Maximilian University (of Munich), you may contact me using the following E-Mail. To ensure confidentiality, please refer to my public key (PGP) following thereafter.
+As long as I am enrolled at Ludwig Maximilian University (of Munich), you may contact me using the following email address. To ensure confidentiality, please refer to my public key (PGP) following thereafter.
 
 # Address
 <img src="https://i.postimg.cc/d1VSb2th/mail-suesslin.png" height="20px">
