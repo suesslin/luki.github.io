@@ -9,7 +9,7 @@ layout: page
 
     <p>I'm a fifth semester Computer Science (CS) and Natural Language Processing (NLP) student at Ludwig Maximilian University (University of Munich).</p>
 
-    <p>Previously I've worked at the biggest German Q&A platform gutefrage as a Software Engineer Working Student (Jul 2020–Sep 2021) and interned at Ulysees (text editor application) and tresmo (IoT firm) throughout summer break whilst in school.</p>
+    <p>Previously I've worked at the biggest German-speaking Q&A platform gutefrage as a Software Engineer Working Student (Jul 2020–Sep 2021) and interned at Ulysees (text editor application) and tresmo (IoT firm) throughout summer break whilst in school.</p>
 
     <p>I'll put my CV (or similar) down here sometime soon when I get to it.</p>
     <p>In the meantime, please refer to these profiles: 
