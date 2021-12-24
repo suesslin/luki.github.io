@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "On The Recent Anti-Covid Measure Protests: Questioning the “Good Cause” Narrative"
+tags: english
+date: 2021-12-17
+---
+
+The anti-measure movement (concerning the covid measures) are getting out of hand.
+
+Just yesterday, big protests came about in Munich and even included right-wing groups such as the Identitarian movement (German: Identitäre Bewegung) who use signs and symbols of Imperial Germany.
+Even though I speak out in favor of mandatory vaccination – as I personally don’t consider it an extraordinarily invasive measure –, do I see reasons as to why one would protest. Politicians not keeping their promises – which they’ve admitted, and let’s be honest, those promises were rather unpromising in the first place) –, politicians switching sides (e.g. Christian Lindner of the neoliberal FD-Party, now favoring compulsory vaccination, a huge betrayal of trust to strict liberals/libertarians), and so forth.
+I do, however, criticize civic participation when right-wing, even far-right organizations and persons, show up. There certainly are valuable points of criticism made by a few intellectuals that can be found among the masses otherwise made up of esoterists, coronavirus deniers and the aforementioned (far-)right wing folks. One such point of criticism I obviously am in favor of – if one knows me, that is – is that the nursing system (German: Pflege) has been heavily neglected; and not just that, but has also intentionally got pared back. This is critique that has been asserted by communists and the rest of the left for a long time. And let’s not get into complaining about the new Secretary of Health, Social Democrat Karl Lauterbach, who has favored the previously mentioned “reduction” of the caring system not too long ago.
+Either way, despite this being a very sensible objection, do I not regard it as particularly convincing when used by the anti-measure movement. Why? Because (1) worker unions and hospital staff have organized demonstrations and strikes, which have, for the most part, found support through other unions, sympathizing commoners and left or worker-friendly parties. Considering the movement exploits this very point of criticism now despite most of those part of the masses not having attended aforementioned protests, does this argument appear more like a suitable objection for their (right-wing sounding) narrative, appearing to aim at delegitimizing the (new) German government. And (2) because most of their other demands aim at individual freedom or liberty and aren’t particularly collectivist or sympathetic/empathetic with regards to their fellow citizens.
+
+Once again: Surely there are some intellectuals, affected nursing staff and others who have previously called upon reforms of the nursing system. But obviously, these current anti-measure protests exploit these arguments as just shown. Hence should commoners (or civic society) consider not to participate, especially when keeping in mind that this point of criticism would take a great deal of time if addressed and wouldn’t solve the situation we are currently finding ourselves in with regards to covid.
+
+We need a plan as to solving the crises, not exploit stolen arguments in order to delegitimize the government.

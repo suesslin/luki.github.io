@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Shots
-permalink: /shots/
+title: Photographs
+permalink: /photographs/
 ---
 
 In my spare time, I occassionally try out different types of 35mm film and analog (point and shoot) cameras. Selected works follow.
