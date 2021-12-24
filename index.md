@@ -22,5 +22,5 @@ layout: page
 </div>
 <div style="float: right; max-width: 30%; height: auto;">
     <img style="width: 100%;" src="https://i.postimg.cc/yYG1vFf7/Drawing-1-sketchpad-5.png">
-    <p style="color: #828282; padding-top: 5px; font-size: 10pt">Dec. 2021, Schwabing (Munich)</p>
+    <p style="color: #828282; padding-top: 5px; font-size: 10pt">Dec 2021, Schwabing (Munich)</p>
 </div>
