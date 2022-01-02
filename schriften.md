@@ -7,7 +7,7 @@ permalink: /schriften/
 **Non-German speakers note**: This is the German writings archive. For English works, please refer to [Writings](/writings).
 
 <ul class="post-list">
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
 	{% if post.tags contains 'deutsch' %}
 		<li>
 			<span>{{ post.date | date_to_string }}</span>
