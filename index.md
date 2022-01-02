@@ -15,8 +15,8 @@ layout: page
 
     <p>I'm a fifth semester Computer Science (CS) and Natural Language Processing (NLP) student at Ludwig Maximilian University (University of Munich).</p>
 
-    <p>Previously I've worked at the biggest German-speaking Q&A platform <i>gutefrage</i> as a Software Engineering Working Student (Jul 2020–Sep 2021) and interned at <i>Ulysees</i> (text editor applicati
-    on) and <i>tresmo</i> (IoT firm) throughout summer break whilst in school.</p>
+    <p>Previously I've worked at the biggest German-speaking Q&A platform <i>gutefrage</i> as a Software Engineering Working Student (Jul 2020–Sep 2021, Munich) and interned at <i>Ulysees</i> (text editor applicati
+    on, Leipzig) and <i>tresmo</i> (IoT firm, Augsburg) throughout summer break whilst in school.</p>
 
     <h1> Quick Links</h1>
 
