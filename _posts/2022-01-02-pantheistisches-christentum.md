@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Pantheistisches Christentum: Ein Auslegungsversuch"
-tags: deutsch christentum pantheist christ protestant katholik katholisch protestantisch evangelisch pantheismus alevitentum mystik mystisch kosmisch kosmik religion
-date: 2021-01-02
+tags: deutsch christentum pantheist christ protestant katholik katholisch protestantisch evangelisch pantheismus alevitentum mystik mystisch kosmisch kosmik religion aufsatz
+date: 2022-01-02
 ---
 
 Nun sehe ich mich durchaus dem Pantheismus angetan. Aus dem Taoistischen, Shintoistischen, gar aus dem Alevitischen scheint mir der Aspekt, Gott sei in der Natur — ja in uns — sehr sympathisch. “Gott hat die die Welt geschaffen” – so auch uns. So heißt es wenigstens. 

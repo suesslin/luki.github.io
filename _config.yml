@@ -27,7 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  luki
 header_pages:
  - writings.md
- - schriften.md
+ - aufsaetze.md
+ - lyrik.md
  - photographs.md
  - contact.md
 

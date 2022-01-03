@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Schriften
-permalink: /schriften/
+title: Aufsätze
+permalink: /aufsaetze/
 ---
 
 **Non-German speakers note**: This is the German writings archive. For English works, please refer to [Writings](/writings).
 
 <ul class="post-list">
-{% for post in site.posts reversed %}
-	{% if post.tags contains 'deutsch' %}
+{% for post in site.posts %}
+	{% if post.tags contains 'aufsatz' %}
 		<li>
 			<span>{{ post.date | date_to_string }}</span>
 			<h3>
