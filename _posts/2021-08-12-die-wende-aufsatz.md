@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Die Wende: Homophobe Angriffe auf der Straße"
-tags: deutsch
+tags: deutsch aufsatz homophobie schwulenfeindlichkeit strassenanfeindung
 date: 2021-08-12
 ---
 

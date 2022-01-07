@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Die Tragödie sprachlichen Ausdrucks"
+tags: aufsatz deutsch sprache linguistik sprachgebrauch sprachkonvention sprachausdruck ausdruck sprachverständnis kommunikation
+date: 2021-08-12
+
+---
+»Hallo«,
+
+dies Wort allein reicht manchmal schon aus, um beispielsweise daheim einen Streit auszulösen. Denn fragt man sich, wie das nur passieren konnte, ob die eigene Ausdrucksweise problematisch gewesen oder das Gegenüber noch bei klarem Verstand sei. Wer leicht reizbar ist, wirft eventuell Fragen wie Letztere an des Gegenüber Kopf. Ein noch heftigerer Streit entbrennt.
+
+Die Suche nach des Schultragenden ist wohl eher kontraproduktiv, denn findet sich die Antwort nach dem Auslöser in einer des Menschen inhärenten Eigenschaft: der Fähigkeit zur Kommunikation. Die Kommunikation selbst stellt sich hierbei als relativ tückisch heraus, denn ist sie von vielerlei Faktoren abhängig, die den konventionell Kommunizierenden zu meist unklar sind, wenngleich sie oft erahnt werden.
+
+»Ich würde gern noch mehr davon hören«.
+
+Dieser Satz erscheint unscheinbar und relativ deutlich. Da er jedoch so urplötzlich fällt, also vom bisherigen Kontext weniger zu erwarten war, hängt seine Auffassung nun von der Interpretation der Lesenden ab. Klarer wird dies, wenn man sich überlegt, was denn wäre, wenn man eben diesen Satz in einem Gespräch von einer Person A zu hören kriegt. Wurde er in relativ neutralem Ton gesagt, kann dies zu Verunsicherung führen – insbesondere bei etwa einem Vorstellungsgespräch. Wurde er allerdings gar euphorisch geäußert, dann liegt nahe, dass A tatsächlich mehr wissen möchte. Wenn er jedoch negativ geäußert wurde, dann erahnt man, dass Ironie im Spiel ist. Plötzlich wird die Aussage, man würde gerne mehr zu hören bekommen, ein impliziter Ausdruck für den Imperativ, dass man doch bitte still sei (man merke: Hier findet gar ein Wandel von Indikativ zum Imperativ statt).
+Eine weitere Überlegung ist die Phrase, die ein Schwabe wohl schon allzu oft im eigenen Haushalt hören durfte: “Ich spring’ noch eben zum Bäcker”.
+Huch, zum Bäcker gleich schon springen? Das klingt anstrengend. Natürlich erahnt man, dass hier etwas anderes gemeint ist: man geht zum nächstbesten Bäcker und kehrt auf direktestem Wege wieder heim. Die Phrase entpuppt sich als bildhafter Ausdruck, ist aber wesentlich komprimierter und gar informationsvoller als die Äußerung “[schnell] zum Bäcker gehen”. Dies ermöglicht die Charaktereigenschaft des Mittinbegriffensein; des implizit seins.
+Es zeigen sich also bezüglich der Essenz der Aussage einer Phrase oder eines Wortes Abhängigkeiten. Etwa durch eine tonale Abhängigkeit wie beim ersten Beispiel oder eine sprachkonventionsbedingte wie beim zweiten. Weitere Abhängigkeiten sind durchaus denkbar (Kontext, usw.).
+
+Doch, so soll sich zeigen, ist es mit der Kommunikation noch schwieriger, denn gibt es ja (mindestens) zwei Parteien, wenn diese stattfindet: etwa die Aussagenden (A) und die Hörenden (H). Überlegt man sich eine Konversation und behält eben gezeigtes im Kopf, dann lässt sich schnell feststellen, dass bspw. der Sprachgebrauch in Kreisen variiert und deshalb die A auch durchaus etwas anderes meinen können als die H verstehen; wenn überhaupt, denn unter Umständen ist etwa den H die implizite Deutung einer Phrase gar nicht bekannt. Auch bei der tonalen Deutung kann es schnell zur Missdeutung kommen, denn manchmal kann ein Mensch sehr erschöpft sein und damit eine schlecht gelaunt geäußerte Bitte von den H durchaus auch als Angriff oder unfreundliche Nötigung verstanden werden.
+
+Damit liegt nahe: Parteien müssen einander verstehen lernen, denn Kommunikation – wenngleich ein wahres Wunder in ihrer Dimension wie bei Menschen der Fall – kann durchaus unklarer sein, als man zu antizipieren vermochte. So sollten die A wohl die H so gut kennenlernen, um vorab die passende Formulierung zu finden, um Missdeutung zu vermeiden, während die H die Aussagen der A zu deuten lernen müssen.
+Kurz gesagt: sich im Sprachgebrauch und deren Auslegung anzunähern oder -gleichen mildert oder vermeidet die »Trägodie des sprachlichen Ausdrucks«. Ein mangelndes Verständnis der potenziellen Auslegung oder Absicht der Ausdrücke anderen Personen um einen selbst ist oftmals Auslöser von Missverständnissen und Streitigkeiten.
+Theoretisch gesehen ist dies ein nahe liegendes Linderungs- oder gar Heilmittel. Praktisch gesehen sind wir uns als Lebewesen wohl zu bequem, einer derart bewussten bzw. achtsamen Form der Kommunikation anzunehmen. Insbesondere bei Familien wird dies mutmaßlich ein Problem darstellen, denn kommt wohl hier durch das permanente Beisammensein die Fähigkeit zur achtsamen Kommunikation abhanden; was man eventuell als Sensibilisierung bezeichnen kann. Doch sollte dies nun etwas mehr ins aktive Bewusstsein gerückt sein. Angehalten dazu kann man sich nun durchaus fühlen.
