@@ -7,7 +7,7 @@ date: 2022-01-08
 ---
 »Hallo«,
 
-dies Wort allein reicht manchmal schon aus, um beispielsweise daheim einen Streit auszulösen. Denn fragt man sich, wie das nur passieren konnte, ob die eigene Ausdrucksweise problematisch gewesen oder das Gegenüber noch bei klarem Verstand sei. Wer leicht reizbar ist, wirft eventuell Fragen wie Letztere an des Gegenüber Kopf. Ein noch heftigerer Streit entbrennt.
+dies Wort allein reicht manchmal schon aus, um beispielsweise daheim einen Streit auszulösen. Unmittelbar danach fragt man sich, wie das nur passieren konnte, ob die eigene Ausdrucksweise problematisch gewesen oder das Gegenüber noch bei klarem Verstand sei. Wer leicht reizbar ist, wirft eventuell Fragen wie Letztere an des Gegenüber Kopf. Ein noch heftigerer Streit entbrennt.
 
 Die Suche nach des Schultragenden ist wohl eher kontraproduktiv, denn findet sich die Antwort nach dem Auslöser in einer des Menschen inhärenten Eigenschaft: der Fähigkeit zur Kommunikation. Die Kommunikation selbst stellt sich hierbei als relativ tückisch heraus, denn ist sie von vielerlei Faktoren abhängig, die den konventionell Kommunizierenden zu meist unklar sind, wenngleich sie oft erahnt werden.
 
