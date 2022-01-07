@@ -2,7 +2,7 @@
 layout: post
 title:  "Die Tragödie sprachlichen Ausdrucks"
 tags: aufsatz deutsch sprache linguistik sprachgebrauch sprachkonvention sprachausdruck ausdruck sprachverständnis kommunikation
-date: 2021-08-12
+date: 2022-01-08
 
 ---
 »Hallo«,
