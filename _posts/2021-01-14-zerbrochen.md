@@ -14,5 +14,5 @@ So stehe ich denn nun hier,\\
 verletzlich und entblößt vor ihr,\\
 verzaubert durch ihren Geruch.\\
 Aber dennoch ist sie zu fern;\\
-vergas ich doch,\\
+vergaß ich doch,\\
 dass der Riss währt immer noch.
