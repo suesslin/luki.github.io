@@ -2,7 +2,7 @@
 layout: post
 title:  "Zerbrochen"
 tags: lyrik deutsch gedicht liebesgedicht liebe herzschmerz kummer
-date: 2021-08-12
+date: 2021-01-14
 ---
 
 Und mit dem Bruch des tiefsten Vertrauens
