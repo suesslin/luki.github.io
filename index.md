@@ -79,11 +79,17 @@ layout: page
     <div>
         <h3>Extracurriculars</h3>
         <ul>
+                <ul>
+                    <li>Lector</li>
+                    <li>Protestant Churches of St. Anne's  and St. Ulrich, Augsburg</li>
+                    <li>Jan 2022</li>
+                </ul>
+            </li>
             <li>
                 <ul>
                     <li>Organizational Youth Assistant</li>
                     <li>Protestant St. Anne's Church, Augsburg</li>
-                    <li>since May 2021</li>
+                    <li>May 2021–Feb 2022</li>
                 </ul>
             </li>
             <li>
@@ -95,7 +101,7 @@ layout: page
             </li>
             <li>
                 <ul>
-                    <li>Weekend event paricipant</li>
+                    <li>Weekend event participant</li>
                     <li>Jugend hackt</li>
                     <li>Cologne '18, Tokyo '17, Berlin '16</li>
                 </ul>
