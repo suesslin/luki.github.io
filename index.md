@@ -79,6 +79,7 @@ layout: page
     <div>
         <h3>Extracurriculars</h3>
         <ul>
+            <li>
                 <ul>
                     <li>Lector</li>
                     <li>Protestant Churches of St. Anne's  and St. Ulrich, Augsburg</li>
