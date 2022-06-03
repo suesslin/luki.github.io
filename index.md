@@ -17,9 +17,14 @@ layout: page
 
     <p>Previously I've worked at the biggest German-speaking Q&A platform <i>gutefrage</i> as a Software Engineering Working Student (Jul 2020–Sep 2021, Munich) and interned at <i>Ulysses</i> (text editor application, Leipzig) and <i>tresmo</i> (IoT firm, Augsburg) throughout summer break whilst in school.</p>
     
-    <p>For my other work including university projects – such as <a href="https://github.com/luki/programmiersprache-l">1)</a> a logical programming language written in Haskell and <a href="https://github.com/luki/alleviating-struggles-in-the-office">2)</a> a "media informatics" seminar paper on leveraging mobile sensors to tackle (health) issues in offices – refer to the links below.
+    <p>Some of my other other work includes university projects such as</p>
+        <ul>
+            <li>(<a href="https://github.com/luki/programmiersprache-l">1</a>) a logical programming language written in Haskell; and </li>
+            <li>(<a href="https://github.com/luki/alleviating-struggles-in-the-office">2</a>)</li>
+        </ul>
+    <p>a "media informatics" seminar paper on leveraging mobile sensors to tackle (health) issues in offices – refer to the links below.</p>
 
-    <h1> Quick Links</h1>
+    <h1>Other references</h1>
 
     <ul>
         <li><a href="https://www.linkedin.com/in/suesslin/">LinkedIn</a></li>
