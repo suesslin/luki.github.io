@@ -20,9 +20,8 @@ layout: page
     <p>Some of my other other work includes university projects such as</p>
         <ul>
             <li>(<a href="https://github.com/luki/programmiersprache-l">1</a>) a logical programming language written in Haskell; and </li>
-            <li>(<a href="https://github.com/luki/alleviating-struggles-in-the-office">2</a>)</li>
+            <li>(<a href="https://github.com/luki/alleviating-struggles-in-the-office">2</a>) a "media informatics" seminar paper on leveraging mobile sensors to tackle (health) issues in offices</li>
         </ul>
-    <p>a "media informatics" seminar paper on leveraging mobile sensors to tackle (health) issues in offices – refer to the links below.</p>
 
     <h1>Other references</h1>
 
