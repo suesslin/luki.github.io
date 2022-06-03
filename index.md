@@ -83,7 +83,7 @@ layout: page
         <ul>
             <li>
                 <ul>
-                    <li>Member (Leading the CS-B.Sc. Discord-Server I founded in April 2020</li>
+                    <li>Member<br> (Leading the CS-B.Sc. Discord-Server I founded in April 2020</li>
                     <li>LMU Association of Student Councils (GAF)</li>
                     <li>Since May 2022 (or since April 2020)</li>
                 </ul>
