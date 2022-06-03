@@ -13,9 +13,11 @@ layout: page
 
     <h1>Short Introduction</h1>
 
-    <p>I'm a fifth semester Computer Science (CS) and Natural Language Processing (NLP) student at Ludwig Maximilian University (University of Munich).</p>
+    <p>I'm a sixth semester Computer Science (CS) and Natural Language Processing (NLP) student at Ludwig Maximilian University (University of Munich).</p>
 
     <p>Previously I've worked at the biggest German-speaking Q&A platform <i>gutefrage</i> as a Software Engineering Working Student (Jul 2020–Sep 2021, Munich) and interned at <i>Ulysses</i> (text editor application, Leipzig) and <i>tresmo</i> (IoT firm, Augsburg) throughout summer break whilst in school.</p>
+    
+    <p>For my other work including university projects – such as [1)](https://github.com/luki/programmiersprache-l) a logical programming language written in Haskell and [2)](https://github.com/luki/alleviating-struggles-in-the-office) a "media informatics" seminar paper on leveraging mobile sensors to tackle (health) issues in offices – refer to the links below.
 
     <h1> Quick Links</h1>
 
@@ -81,16 +83,16 @@ layout: page
         <ul>
             <li>
                 <ul>
-                    <li>Lector</li>
-                    <li>Protestant Churches of St. Anne's  and St. Ulrich, Augsburg</li>
-                    <li>Jan 2022</li>
+                    <li>Member (Leading the CS-B.Sc. Discord-Server I founded in April 2020</li>
+                    <li>LMU Association of Student Councils (GAF)</li>
+                    <li>Since May 2022 (or since April 2020)</li>
                 </ul>
             </li>
             <li>
                 <ul>
                     <li>Organizational Youth Assistant</li>
                     <li>Protestant St. Anne's Church, Augsburg</li>
-                    <li>May 2021–Feb 2022</li>
+                    <li>May 2021–May 2022</li>
                 </ul>
             </li>
             <li>
