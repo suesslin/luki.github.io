@@ -39,21 +39,28 @@ layout: page
         <ul>
             <li>
                 <ul>
-                    <li>Software Engineering Working Student</li>
+                    <li>Student Assistant, Human-AI IxD for Aviation</li>
+                    <li>Research Institute of the Free State of Bavaria for software-intensive Systems and Services, Munich</li>
+                    <li><i>Starting</i> Jul 2022</li>
+                </ul>
+            </li>
+            <li>
+                <ul>
+                    <li>Working Student, Software Engineering</li>
                     <li>gutefrage.net, Munich</li>
                     <li>Jul 2020 – Oct 2021</li>
                 </ul>
             </li>
             <li>
                 <ul>
-                    <li>Software Engineering Intern</li>
+                    <li>Intern, Software Engineering</li>
                     <li>Ulysses, Leipzig</li>
                     <li>Aug 2018, 2 weeks</li>
                 </ul>
             </li>
             <li>
                 <ul>
-                    <li>Software Engineering Intern</li>
+                    <li>Intern, Software Engineering</li>
                     <li>tresmo, Augsburg</li>
                     <li>Aug 2017, 1 month</li>
                 </ul>
