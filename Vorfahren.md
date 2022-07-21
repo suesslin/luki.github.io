@@ -41,10 +41,12 @@ Und tatsächlich traf diese Vermutung zu. So findet man sie eben nicht in evange
 Doch nebst dieser Geburt, die einem Wunder gleicht, gab es noch einen weiteren Lichtblick in diesen düsteren Zeiten: Ihr Vater erwarb laut Grundbüchern im Jahre 1640 das Wohnobjekt »Lit A 176/177 Zwerchgasse Ecke am Milchberg«, heute bekannt als Alte Schmiede. 1649 steht in den Steuerbühchern statt Daniel Paulus, »Daniel Paulus Wb« was fur Wittibus, also Witwin besteht. Ergo verstarb der Weber im letzten Jahre des Krieges: 1648.
 Seine Tochter heiratete am 17. Januar 1649 den Augsburger Weber Caspar Scherer d. Jüngeren (geb. 1613). 1679 erbte Anna die Alte Schmiede. Allerdings verarb sie es nicht dem Sohn der wie sein Vater auch Caspar (1654–1703) hieß, denn der wurde nicht Weber sondern Stadtgardesoldat, sondern im Jahre 1686 dem Weber Hans Braun, Ehemann ihrer Tochter Anna Veronica Scherer. 
 
-# Julius Bertazzoni (1869–1954)
+# Giulio/Julius Bertazzoni(-Hägele) (1869–1954)
+Am 23. Oktober 1869 wird ain einem kleinen Ort namens Riva ein  Junge namnes Giulio geboren, Söhnlein des Ehepaares Gaetano (Kajetan) Bertazzoni und Teresa (Theres) Caramaschi. Riva ist ein kleiner Ort in der Poebene, genauer in der Lombardei, gleich an der Grenze zur Emilia Romagna. Wenngleich es zum lombardischen Ort Suzzara (dialektal: Süsèra) gehört, hat Giulio sicht meist als aus dem Nachbarsort Luzzara (Lüsèra) und als aus der Emilia Romagna stammend bezeichnet. Nach seiner Zeit bei der italienischen Armee, in der er das Eismachen gelernt hatte, siedelete er zum Geldverdienen ins Königreich Württemberg über, genauer in die ehemalige Freie Reichsstadt Esslingen am Neckar. Dort führte er einen Bautrupp an und verliebte sich in die Esslinger Tagelöhnerstochter Friederike MATHILDE Hägele (1879–1960). Am 26. Oktober 1901 fand die Hochzeit zwischen den beiden statt; zu dieser Zeit handelte Julius, wie er sich wohl nun nannte, mit Südfrüchten. Im selben Jahr wurde eine Eisdiele gegrundet, die heute noch existiert und laut Recherchen des heute noch vorbestehenden Familienbetriebs die somit älteste fortbestehende Gelateria Deutschlands ist.
+
+Zur Zeit des Ersten Weltkrieges schien es ungemutlich geworden zu sein. Am 4. April 1916 siedelete sich der in »Luzzara, R. Emilia, Italien« beheimatete verheiratete katholische Handelsmann »Giulio Bertazzoni-Hägele« in schweizer Ort Schaffhausen an, gleich an der Grenze zu Deutschen Reich, bzw. Württemberg. Im Oktober desselben Jahres aber zog er nach Zürich, wo er mehrmals umzog. Am 27. September 1924 meldete er sich wieder nach Esslingen ab.
+Doch schon einig Jahre darauf, am 24. Oktober 1931 erfolgte ein erneuter Zuzug nach Zürich, inzwischen stand die Familie Bertazzoni mit gar der »deutschen« Mutter auf der Esslinger Ausländerliste. Interessanterweise kehrte Julius am 12. Apr 1938 zurück ins Württembergische Esslingen am Neckar. Dort verstarb er am 19. Mai 1954
 
 # Richard Haug (1907–1985)
 
 # Georg Stix (1899–1956)
-
-# Julius/Giulio Bertazzoni(1907–1985)
