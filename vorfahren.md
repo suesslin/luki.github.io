@@ -6,7 +6,7 @@ title:  "Vorfahren"
 # Nikolaus (1751–1821) und Jakob Anton Gerber (1784/85–1844)
 
 Nikolaus wurde als Sohn des Ehepaares Johannes und Maria Apollonia Gerber (geb. Dumbach) im kurpfälzischen Oggersheim (heute größtes Viertel von Ludwigshafen, Rheinland-Pfalz) geboren.
-Er wurde am Kutscher am Hofe der Residenz der kurpfälzischen Wittelsbacher und heiratete die in Mannheim geborene Maria CATHARINA Hesselschwerdt (1755–1816), Tochter des aus wohl Leimersheim stammenden Hofstallknechtes und -sattlers Daniel Hesselschwerdt.
+Angestellt war er als Kutscher am Hofe der kurpfälzischen Wittelsbacher und heiratete die in Mannheim geborene Maria CATHARINA Hesselschwerdt (1755–1816), Tochter des Hofstallknechtes und -sattlers Daniel Hesselschwerdt, wohl aus Leimersheim stammend (1724 als Johann Daniel Heselswerth/Eselswehrt). 
 Im Jahre 1777 verstarb in München Max III. Joseph, der Halter der bayerischen Wittelsbacher-Linie Max III. Joseph. Mit seinem Tode zog Karl Theodor Kurfürst von der Pfalz als Erbe nach Munchen und nahm seinen Hof mit. 
 Wann genau die Familie Gerber übersiedelte ist unklar, dennoch verstirbt am 9. November 1816 laut Sterbebuch der Münchner Frauenkirche die Catharina Gerber, Hofkutschers Gattin im Alter von 61 Jahren an »Auszehrung« (Untergewicht). Ihr Ehemann verstarb am 12. Juni 1821, ebenfalls in München.
 
