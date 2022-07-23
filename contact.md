@@ -5,20 +5,6 @@ title:  "Contact"
 
 As long as I am enrolled at Ludwig Maximilian University (of Munich), you may contact me using the following email address. To ensure confidentiality, please refer to my public key (PGP) following thereafter.
 
-Form of address (English)
-|||
-|----------------|---------|
-|3.person pronoun|they/them|
-|Salutation|No Mr; use "(Lukas) Suesslin" or "Mx. Suesslin"|
-
-
-Anrede (Deutsch)
-|||
-|----------------|---------|
-|3. Person Pronomen|Vorname/Nachname; they/them|
-|Anrede|Kein Herr. "(Lukas) Süsslin"|
-|Flexion Adjektive|Statt Lieb+(e/er) einfach Lieb, bsp: Lieb (Lukas) Süsslin|
-
 # Address
 <img src="https://i.postimg.cc/d1VSb2th/mail-suesslin.png" height="20px">
 
