@@ -9,7 +9,7 @@ Form of address (English)
 |||
 |----------------|---------|
 |3.person pronoun|they/them|
-|Salutation|No Mr; use "(Lukas) Suesslin" or "Mx. Susslin"|
+|Salutation|No Mr; use "(Lukas) Suesslin" or "Mx. Suesslin"|
 
 
 Anrede (Deutsch)
