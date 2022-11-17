@@ -13,7 +13,7 @@ layout: page
 
     <h1>Short Introduction</h1>
 
-    <p>I'm a sixth semester Computer Science (CS) and Natural Language Processing (NLP) student at Ludwig Maximilian University (University of Munich). </p>
+    <p>I'm a Computer Science and Natural Language Processing student at Ludwig Maximilian University (University of Munich). </p>
 
     <p>Previously I've worked at the biggest German-speaking Q&A platform <i>gutefrage</i> as a Software Engineering Working Student (Jul 2020–Sep 2021, Munich) and interned at <i>Ulysses</i> (text editor application, Leipzig) and <i>tresmo</i> (IoT firm, Augsburg) throughout summer break whilst in school.</p>
     
@@ -41,7 +41,7 @@ layout: page
                 <ul>
                     <li>Student Assistant, Human-AI IxD for Aviation</li>
                     <li>Research Institute of the Free State of Bavaria for software-intensive Systems and Services, Munich</li>
-                    <li><i>Starting</i> Jul 2022</li>
+                    <li>Jul–Oct 2022</li>
                 </ul>
             </li>
             <li>
