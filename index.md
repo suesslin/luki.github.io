@@ -6,8 +6,8 @@ layout: page
 ---
 
 <div style="@media only screen and (max-width: 780px) { float: none; } float: right; max-width: 30%; height: auto;">
-    <img style="width: 100%;" src="https://i.postimg.cc/yYG1vFf7/Drawing-1-sketchpad-5.png">
-    <p style="color: #828282; padding-top: 5px; font-size: 10pt;">Dec 2021, Schwabing (Munich)</p>
+    <img style="width: 100%;" src="https://i.postimg.cc/J7t1sBGX/IMG-3626-2.jpg">
+    <p style="color: #828282; padding-top: 5px; font-size: 10pt;">Oct 2022, Leipzig-Lindenau</p>
 </div>
 <div style="float: left; width: 65%; padding-right: 5%; @media only screen and (max-width: 780px) { float: none; }">
 
@@ -37,6 +37,13 @@ layout: page
     <div>
     <h3>Professional Experience</h3>
         <ul>
+            <li>
+                <ul>
+                    <li>Tutor for the lecture "Human Computer Interaction I"</li>
+                    <li>Ludwig Maximilian University, Munich</li>
+                    <li><i>Starting</i>April 2023</li>
+                </ul>
+            </li>
             <li>
                 <ul>
                     <li>Student Assistant, Human-AI IxD for Aviation</li>
