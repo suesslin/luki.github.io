@@ -41,7 +41,7 @@ layout: page
                 <ul>
                     <li>Tutor for the lecture "Human Computer Interaction I"</li>
                     <li>Ludwig Maximilian University, Munich</li>
-                    <li><i>Starting</i>April 2023</li>
+                    <li><i>Starting</i> April 2023</li>
                 </ul>
             </li>
             <li>
