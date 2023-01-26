@@ -24,11 +24,14 @@ die Mutter Sybilles übrig, die Maria Walburga Scherer (geb. Hönig/Henning). 18
 Folglich ist er in Ansprache mit seiner verstorbenen Frau zum Protestantismus konvertiert und lies seine Kinder evangelisch erziehen. In Augsburg wird er außerdem ledliglich Jakob Gerber genannt und sein Alter ein Jahr verschoben auf den 26 Juli 1785 datiert. 
 Der Schneidermeister kampfte einige Jahre um das damals noch notwendige »Heimathrecht« für seine Kinder, das ihm wiederholt vom Augsburger Magistrat verwehrt wurde. Auch seiner Tochter Louise werden etliche Versuche verwehrt, da sie bereits das Münchner Heimatrecht habe, wenngleich sie wohl Zeit ihrer Erinnerung nur in Augsburg gelebt hat und deshalb auch entgegnete ihr sei »die Stadt [München] gänzlich fremd geworden«.
 
-## Seuz Tüllbaum/Dilbaum (* Ende 14. Jahrhundert – 15. Jahrhundert, Augsburg)
+## Seuz Tüllbaum/Dil(l)baum/Thillbaum (* Ende 14. Jahrhundert – 15. Jahrhundert, Augsburg)
 
 1401 taucht vereinzelt das erste Mal im Augsburger Steuerbuch (1401, S. 4a) ein Seuz Tüllbaum auf. Hier handelt es sich um die Entstehung eines Nachnamens, denn vorher wurde der Seuz als Seuz Weber, bzw. auf lateinisch als »seuz textor« aufgeführt. Erst ab einschließlich 1404 wird der neue Nachname (zu meist geschrieben als) Tüllbaum geführt. Im Jahre 1404 (S. 2d) allerdings lautete die Schreibweise "Seuz Dullpam".
 
-Die Herleitung der Namensentstehung kam zustande bei dem Versuch der Herleitung der Namensbedeutung in Zusammenarbeit mit (hauptsächlich aber nicht ausschlieslich) Peter Kuhweide. Die Zusammenfassung der Deutungsmöglichkeiten ist im Unterforum »Namensherkunf« auf [Ahnenforschung.net](https://forum.ahnenforschung.net/showpost.php?p=1489292&postcount=71) zu finden.
+Die Herleitung der Namensentstehung kam zustande bei dem Versuch der Herleitung der Namensbedeutung in Zusammenarbeit mit (hauptsächlich aber nicht ausschlieslich) Peter Kuhweide. Die Zusammenfassung der Deutungsmöglichkeiten ist im Unterforum »Namensherkunft« auf [Ahnenforschung.net](https://forum.ahnenforschung.net/showpost.php?p=1489292&postcount=71) zu finden.
+
+Im 16. Jahrhundert schreibt man Nachfahren in Augsburg Dilbaum oder Dillbaum und Auswanderer nach Tübingen Thül(l)baum oder Thül(l)paum. 
+Der letzte der Augsburger Familie in Augsburg ist der Samuel, geschrieben Thillbaum. Er stirbt 1681 in Augsburg, sein letzter Steuerbucheintrag (1681, S. 42b) ist in diesem Jahr und daneben die Notiz: "todt ab".
 
 ## Isaak Heinrich Scherer (1745, Augsburg – 1821, Augsburg)
 
