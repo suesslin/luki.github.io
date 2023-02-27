@@ -23,7 +23,7 @@ layout: page
             <li>(<a href="https://github.com/luki/alleviating-struggles-in-the-office">2</a>) a "media informatics" seminar paper on leveraging mobile sensors to tackle (health) issues in offices</li>
         </ul>
     
-    <p>In my spare time, amongst other activites, I produce techno music under the artist name <i>Awkward Endeavor</i> ([SoundCloud](https://soundcloud.com/awkwardendeavor) | [bandcamp](https://awkwardendeavor.bandcamp.com) | [Spotify](https://open.spotify.com/artist/2qegQdSFPKUy3swzN1pRqT?si=pv80FJk1ROaqtdZEmw9zxQ))</p>
+    <p>In my spare time, amongst other activites, I produce techno music under the artist name <i>Awkward Endeavor</i> (<a href="https://soundcloud.com/awkwardendeavor">SoundCloud</a> | <a href="https://awkwardendeavor.bandcamp.com">bandcamp</a>() | <a href="https://open.spotify.com/artist/2qegQdSFPKUy3swzN1pRqT?si=pv80FJk1ROaqtdZEmw9zxQ">Spotify</a></p>
 
     <h1>Other references</h1>
 
