@@ -77,7 +77,7 @@ layout: page
                 <ul>
                     <li>Ludwig Maximilian University (Munich)</li>
                     <li>B.Sc. Computer Science and Natural Language Processing</li>
-                    <li><i>expected</i> Spring 2023</li>
+                    <li><i>expected</i> Graduation with summer term '23</li>
                 </ul>
             </li>
             <li>
