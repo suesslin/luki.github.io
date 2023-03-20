@@ -41,13 +41,6 @@ layout: page
         <ul>
             <li>
                 <ul>
-                    <li>Tutor for the lecture "Human Computer Interaction I"</li>
-                    <li>Ludwig Maximilian University, Munich</li>
-                    <li><i>Starting</i> April 2023</li>
-                </ul>
-            </li>
-            <li>
-                <ul>
                     <li>Student Assistant, Human-AI IxD for Aviation</li>
                     <li>Research Institute of the Free State of Bavaria for software-intensive Systems and Services, Munich</li>
                     <li>Jul–Oct 2022</li>
