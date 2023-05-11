@@ -19,10 +19,12 @@ Spaziergänge im Olympischen Park (ebenfalls mit den beiden), ein Frühabend am 
 
 Es wird wohl mein letztes Semester in München sein. Wer weiß, ob mein Schwerpunkt je wieder nach Schwabing und Umgebung führen wird.
 
-<a href="https://ibb.co/0q40DPz"><img src="https://i.ibb.co/F6ZQxGd/wedekindplatz.jpg" alt="wedekindplatz" border="0" width="250px"></a>
-<a href="https://ibb.co/LddypdG"><img src="https://i.ibb.co/DffFKfq/wedekindplatz-2020.jpg" alt="wedekindplatz-2020" border="0" width="250px"></a>
-<a href="https://ibb.co/XsMBf2D"><img src="https://i.ibb.co/Ph0psmM/schwabing-ungererstr-sommer2021-1.jpg" alt="schwabing-ungererstr-sommer2021-1" border="0" width="250px"></a>
-<a href="https://ibb.co/MRbQPsr"><img src="https://i.ibb.co/THZdPk6/schwabing-ungererstr-sommer2021-2.jpg" alt="schwabing-ungererstr-sommer2021-2" border="0" width="250px"></a>
-<a href="https://ibb.co/M6QFn18"><img src="https://i.ibb.co/2NHGqM8/kunstoase-dez-2021-2.jpg" alt="kunstoase-dez-2021-2" border="0" width="250"></a>
-<a href="https://ibb.co/LYN3vmg"><img src="https://i.ibb.co/8NYHXqx/schwabinger-see-sommer-2022.jpg" alt="schwabinger-see-sommer-2022" border="0" width="250px"></a>
+<a href="https://ibb.co/0q40DPz"><img src="https://i.ibb.co/F6ZQxGd/wedekindplatz.jpg" alt="wedekindplatz" border="0" width="240px"></a>
+<a href="https://ibb.co/LddypdG"><img src="https://i.ibb.co/DffFKfq/wedekindplatz-2020.jpg" alt="wedekindplatz-2020" border="0" width="240px"></a>
+<a href="https://ibb.co/XsMBf2D"><img src="https://i.ibb.co/Ph0psmM/schwabing-ungererstr-sommer2021-1.jpg" alt="schwabing-ungererstr-sommer2021-1" border="0" width="240px"></a>
+
+<a href="https://ibb.co/MRbQPsr"><img src="https://i.ibb.co/THZdPk6/schwabing-ungererstr-sommer2021-2.jpg" alt="schwabing-ungererstr-sommer2021-2" border="0" width="240px"></a>
+<a href="https://ibb.co/M6QFn18"><img src="https://i.ibb.co/2NHGqM8/kunstoase-dez-2021-2.jpg" alt="kunstoase-dez-2021-2" border="0" width="240"></a>
+<a href="https://ibb.co/LYN3vmg"><img src="https://i.ibb.co/8NYHXqx/schwabinger-see-sommer-2022.jpg" alt="schwabinger-see-sommer-2022" border="0" width="240px"></a>
+
 <a href="https://ibb.co/5L89fZ7"><img src="https://i.ibb.co/M7Vh3dX/kunstoase-dez-2021-1.jpg" alt="kunstoase-dez-2021-1" border="0" width="750px"></a>
