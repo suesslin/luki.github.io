@@ -13,7 +13,7 @@ layout: page
 
     <h1>Short Introduction</h1>
 
-    <p>I'm a Computer Science and Natural Language Processing student at Ludwig Maximilian University (University of Munich). </p>
+    <p>Student of Media Informatics at Technical University of Dresden. Finished studying B.Sc. in Computer Science and Computational Linguistics at Ludwig Maximilian University (University of Munich) in the Summer of 2023. </p>
 
     <p>Previously I've worked at the biggest German-speaking Q&A platform <i>gutefrage</i> as a Software Engineering Working Student (Jul 2020–Sep 2021, Munich) and interned at <i>Ulysses</i> (text editor application, Leipzig) and <i>tresmo</i> (IoT firm, Augsburg) throughout summer break whilst in school.</p>
     
