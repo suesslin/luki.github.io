@@ -73,11 +73,18 @@ layout: page
     <div>
         <h3>Education</h3>
         <ul>
+               <li>
+                <ul>
+                    <li>Technical University of Dresden</li>
+                    <li>Media Informatics</li>
+                    <li><i>starting</i> October 2023</li>
+                </ul>
+            </li>
             <li>
                 <ul>
                     <li>Ludwig Maximilian University (Munich)</li>
                     <li>B.Sc. Computer Science and Natural Language Processing</li>
-                    <li><i>expected</i> Graduation with summer term '23</li>
+                    <li>Oct 2019 – Jul 2023</li>
                 </ul>
             </li>
             <li>
@@ -98,7 +105,7 @@ layout: page
                 <ul>
                     <li>Member<br> (Leading the CS-B.Sc. Discord-Server I founded in April 2020</li>
                     <li>LMU Association of Student Councils (GAF)</li>
-                    <li>Since May 2022 (or since April 2020)</li>
+                    <li>May 2022 (independently since April 2020) – August 2023</li>
                 </ul>
             </li>
             <li>
