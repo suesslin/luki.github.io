@@ -75,22 +75,22 @@ layout: page
         <ul>
                <li>
                 <ul>
+                    <li>Media Informatics (A few B.Sc. courses, afterwards M.Sc.)</li>
                     <li>Technical University of Dresden</li>
-                    <li>Media Informatics</li>
                     <li><i>starting</i> October 2023</li>
                 </ul>
             </li>
             <li>
                 <ul>
-                    <li>Ludwig Maximilian University (Munich)</li>
                     <li>B.Sc. Computer Science and Natural Language Processing</li>
-                    <li>Oct 2019 – Jul 2023</li>
+                    <li>Ludwig Maximilian University (Munich)</li>
+                    <li>Started Oct 2019, Finished July 2023</li>
                 </ul>
             </li>
             <li>
                 <ul>
-                    <li>Holbein Gymnasium (Augsburg)</li>
                     <li>Qualification for Tertiary Education (Abitur)</li>
+                    <li>Holbein Gymnasium (Augsburg)</li>
                     <li>2019</li>
                 </ul>
             </li>
