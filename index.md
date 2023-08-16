@@ -19,8 +19,9 @@ layout: page
     
     <p>Some of my other other work includes university projects such as</p>
         <ul>
-            <li>(<a href="https://github.com/luki/programmiersprache-l">1</a>) a logical programming language written in Haskell; and </li>
-            <li>(<a href="https://github.com/luki/alleviating-struggles-in-the-office">2</a>) a "media informatics" seminar paper on leveraging mobile sensors to tackle (health) issues in offices</li>
+             <li>(<a href="https://www.researchgate.net/publication/371987298_Visualizing_and_Counteracting_Touch_Overlap_during_Public_Display_Interaction">1</a>) Bachelor's thesis at the HCI group of LMU Munich, "Visualizing and Counteracting Touch Overlap during Public Display Interaction" (Supervisors: Linda Hirsch, Prof. Dr. Florian Alt, Prof Dr. Ville Mäkelä)</li>
+            <li>(<a href="https://github.com/luki/programmiersprache-l">2</a>) a logical programming language written in Haskell</li>
+            <li>(<a href="https://github.com/luki/alleviating-struggles-in-the-office">3</a>) a "media informatics" seminar paper on leveraging mobile sensors to tackle (health) issues in offices</li>
         </ul>
     
     <p>In my spare time, amongst other activites, I produce techno music under the artist name <i>Awkward Endeavor</i> (<a href="https://soundcloud.com/awkwardendeavor">SoundCloud</a> | <a href="https://awkwardendeavor.bandcamp.com">bandcamp</a> | <a href="https://open.spotify.com/artist/2qegQdSFPKUy3swzN1pRqT?si=pv80FJk1ROaqtdZEmw9zxQ">Spotify</a>)</p>
