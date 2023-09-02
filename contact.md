@@ -3,25 +3,7 @@ layout: page
 title:  "Contact"
 ---
 
-As long as I am enrolled at Ludwig Maximilian University (of Munich), you may contact me using the following email address. To ensure confidentiality, please refer to my public key (PGP) following thereafter.
+As long as I am enrolled at Technical University of Dresden you may contact me using the email address in the image (spam protection) below. 
 
-# Address
-<img src="https://i.postimg.cc/d1VSb2th/mail-suesslin.png" height="20px">
+<img src="https://i.postimg.cc/63PwKm03/Screenshot-2023-09-02-at-08-25-18.png" height="30px">
 
-# Public Key (PGP)
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-mDMEYcHI6RYJKwYBBAHaRw8BAQdAwTrfgu8ltwG6zIbni4Y4AvZsce792nG8SrFt
-mnHMe020KEx1a2FzIFPDvHNzbGluIDxzdWVzc2xpbkBjaXAuaWZpLmxtdS5kZT6I
-mgQTFgoAQhYhBF+vSDGePolIwCn0r8jCCfiSq4jfBQJhwcjpAhsDBQkDwmcABQsJ
-CAcCAyICAQYVCgkICwIEFgIDAQIeBwIXgAAKCRDIwgn4kquI34OnAQCPlwpePVfp
-SI2PX2wJrVpsFqVEBMoOz7pqpkDHUM/zUwEAnnd6RihCz9UmIr0Eg91+4psUNcEP
-CHvVxPMguPG/IAG4OARhwcjpEgorBgEEAZdVAQUBAQdAgK8r7ll4Iv5PamsfhRLO
-Kc557Gg7i9LuzxIfGJDP5R8DAQgHiH4EGBYKACYWIQRfr0gxnj6JSMAp9K/Iwgn4
-kquI3wUCYcHI6QIbDAUJA8JnAAAKCRDIwgn4kquI3xWxAQC6E+dHSf9oAgTDQ14C
-iuSrZzfW4btHhrA5W+0YKiG7tAEAqTfOcKpC1sW9V/fKosTmX3j6qsTjz1Ovdh7s
-bHIKuAw=
-=Y0Pt
------END PGP PUBLIC KEY BLOCK-----
-```
