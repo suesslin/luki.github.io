@@ -15,7 +15,7 @@ layout: page
 
     <p>Student of Media Informatics at Technical University of Dresden. Finished studying B.Sc. in Computer Science and Computational Linguistics at Ludwig Maximilian University (University of Munich) in the Summer of 2023. </p>
 
-    <p>Previously I've worked at the biggest German-speaking Q&A platform <i>gutefrage</i> as a Software Engineering Working Student (Jul 2020–Sep 2021, Munich) and interned at <i>Ulysses</i> (text editor application, Leipzig) and <i>tresmo</i> (IoT firm, Augsburg) throughout summer break whilst in school.</p>
+    <p>Amongst others, previous tenures include a Software Engineering Working Student job at the most popular German-speaking Q&A platform <i>gutefrage</i> (Jul 2020–Sep 2021, Munich) and internships at <i>Ulysses</i> (text editor application, Leipzig) and <i>tresmo</i> (IoT firm, Augsburg) throughout summer break whilst in high school.</p>
     
     <p>Some of my other other work includes university projects such as</p>
         <ul>
