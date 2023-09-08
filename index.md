@@ -13,9 +13,9 @@ layout: page
 
     <h1>Short Introduction</h1>
 
-    <p>Student of Media Informatics at Technical University of Dresden. Finished studying B.Sc. in Computer Science and Computational Linguistics at Ludwig Maximilian University (University of Munich) in the Summer of 2023. </p>
+    <p>Currently pursuing a degree in Media Informatics at the Technical University of Dresden, I recently completed my B.Sc. in Computer Science and Computational Linguistics from Ludwig Maximilian University (University of Munich) in the Summer of 2023.</p>
 
-    <p>Amongst others, previous tenures include a Software Engineering Working Student job at the most popular German-speaking Q&A platform <i>gutefrage</i> (Jul 2020–Sep 2021, Munich) and internships at <i>Ulysses</i> (text editor application, Leipzig) and <i>tresmo</i> (IoT firm, Augsburg) throughout summer break whilst in high school.</p>
+    <p>Along my academic journey I have also gained practical experience through roles such as a Software Engineering Working Student at the renowned German-speaking Q&A platform, gutefrage, from July 2020 to September 2021 in Munich. Additionally, I undertook internships at Ulysses, a text editor application company in Leipzig, and tresmo, an IoT firm in Augsburg, during my high school summer breaks.</p>
     
     <p>Some of my other other work includes university projects such as</p>
         <ul>
@@ -24,7 +24,7 @@ layout: page
             <li>(<a href="https://github.com/luki/alleviating-struggles-in-the-office">3</a>) a "media informatics" seminar paper on leveraging mobile sensors to tackle (health) issues in offices</li>
         </ul>
     
-    <p>In my spare time, amongst other activites, I produce techno music under the artist name <i>Awkward Endeavor</i> (<a href="https://soundcloud.com/awkwardendeavor">SoundCloud</a> | <a href="https://awkwardendeavor.bandcamp.com">bandcamp</a> | <a href="https://open.spotify.com/artist/2qegQdSFPKUy3swzN1pRqT?si=pv80FJk1ROaqtdZEmw9zxQ">Spotify</a>)</p>
+    <p>In my spare time, amongst other activites, I produce techno and other electronic music under the artist name <i>Awkward Endeavor</i> (<a href="https://soundcloud.com/awkwardendeavor">SoundCloud</a> | <a href="https://awkwardendeavor.bandcamp.com">bandcamp</a> | <a href="https://open.spotify.com/artist/2qegQdSFPKUy3swzN1pRqT?si=pv80FJk1ROaqtdZEmw9zxQ">Spotify</a>)</p>
 
     <h1>Other references</h1>
 
@@ -76,16 +76,16 @@ layout: page
         <ul>
                <li>
                 <ul>
-                    <li>Media Informatics (A few B.Sc. courses, afterwards M.Sc.)</li>
+                    <li>Media Informatics, Postgradual</li>
                     <li>Technical University of Dresden</li>
-                    <li><i>starting</i> October 2023</li>
+                    <li><i>starting</i> Oct 2023</li>
                 </ul>
             </li>
             <li>
                 <ul>
                     <li>B.Sc. Computer Science and Natural Language Processing</li>
                     <li>Ludwig Maximilian University (Munich)</li>
-                    <li>Started Oct 2019, Finished July 2023</li>
+                    <li>Started Oct 2019, Graduated Sep 2023</li>
                 </ul>
             </li>
             <li>
