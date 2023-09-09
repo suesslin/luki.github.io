@@ -13,7 +13,7 @@ layout: page
 
     <h1>Short Introduction</h1>
 
-    <p>Currently pursuing a degree in Media Informatics at Dresden University of Technology, I recently completed my B.Sc. in Computer Science and Computational Linguistics from Ludwig Maximilian University (University of Munich) in the Summer of 2023.</p>
+    <p>Currently pursuing a master's degree in Media Informatics at Dresden University of Technology, I recently completed my B.Sc. in Computer Science and Computational Linguistics at Ludwig Maximilian University (University of Munich) in the Summer of 2023.</p>
 
     <p>Along my academic journey I have also gained practical experience through roles such as a Software Engineering Working Student at the renowned German-speaking Q&A platform, gutefrage, from July 2020 to September 2021 in Munich. Additionally, I undertook internships at Ulysses, a text editor application company in Leipzig, and tresmo, an IoT firm in Augsburg, during my high school summer breaks.</p>
     
