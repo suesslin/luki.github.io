@@ -19,7 +19,7 @@ layout: page
     
     <p>Some of my other other work includes university projects such as</p>
         <ul>
-             <li>(<a href="https://www.researchgate.net/publication/371987298_Visualizing_and_Counteracting_Touch_Overlap_during_Public_Display_Interaction">1</a>) Bachelor's thesis at the HCI group of LMU Munich, "Visualizing and Counteracting Touch Overlap during Public Display Interaction" (Supervisors: Linda Hirsch, Prof. Dr. Florian Alt, Prof Dr. Ville Mäkelä)</li>
+             <li>(<a href="https://www.researchgate.net/publication/371987298_Visualizing_and_Counteracting_Touch_Overlap_during_Public_Display_Interaction">1</a>) my bachelor's thesis at the HCI group of LMU Munich, "Visualizing and Counteracting Touch Overlap during Public Display Interaction" (Supervisors: Linda Hirsch, Prof. Dr. Florian Alt, Prof Dr. Ville Mäkelä)</li>
             <li>(<a href="https://github.com/luki/programmiersprache-l">2</a>) a logical programming language written in Haskell</li>
             <li>(<a href="https://github.com/luki/alleviating-struggles-in-the-office">3</a>) a "media informatics" seminar paper on leveraging mobile sensors to tackle (health) issues in offices</li>
         </ul>
