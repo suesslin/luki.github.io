@@ -8,8 +8,18 @@ As long as I am enrolled at Technical University of Dresden please feel free to 
 <img src="https://i.postimg.cc/QNwmKZxb/mail-suesslin.png" height="30px">
 
 Form of address and referencing
-| | |
-|-|-|
-|Last name spelling|Please use _ü_ or _ue_, never _u_|
-|Title|"Mx. <Last_Name>" or just "<First_Name> <Last_Name>"|
-|Pronouns|They/them, he/him| 
+
+<table>
+  <tr>
+    <td>Last name spelling</td>
+    <td>Please use <i>ü</i> or <i>ue</i>, never <i>u</i></td>
+  </tr>
+  <tr>
+    <td>Title</td>
+    <td>Please use "Mx. &lt;Last_Name&gt; or just &lt;First_Name&gt; &lt;Last_Name&gt;"</td>
+  </tr>
+  <tr>
+    <td>Pronouns</td>
+    <td>They/them, he/him</td>
+  </tr>
+</table>
