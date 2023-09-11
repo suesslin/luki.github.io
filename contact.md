@@ -12,7 +12,7 @@ Form of address and referencing
 <table>
   <tr>
     <td>Last name spelling</td>
-    <td>Please use <i>ü</i> or <i>ue</i>, never <i>u</i></td>
+    <td>Please use <i>ü</i>, alternatively <i>ue</i>; Never <i>u</i></td>
   </tr>
   <tr>
     <td>Title</td>
