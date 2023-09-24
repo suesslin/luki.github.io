@@ -17,8 +17,7 @@ layout: page
 
     <p>Along my academic journey I have also gained practical experience through roles such as a Software Engineering Working Student at the renowned German-speaking Q&A platform, gutefrage, from July 2020 to September 2021 in Munich. For three months, I have also been a student assistant in Human-AI Interaction Design for aviation at the Research Institute of the Free State of Bavaria for software-intensive Systems and Services. Additionally, I undertook internships at Ulysses, a text editor application company in Leipzig, and tresmo, an IoT firm in Augsburg, during my high school summer breaks.</p>
 
-    <h1>Project work</h1>    
-    <p>Some of my other other work includes university projects such as</p>
+    <h1>Select project work</h1>    
         <ul>
              <li>(<a href="https://www.researchgate.net/publication/371987298_Visualizing_and_Counteracting_Touch_Overlap_during_Public_Display_Interaction">1</a>) my bachelor's thesis at the HCI group of LMU Munich, "Visualizing and Counteracting Touch Overlap during Public Display Interaction" (Supervisors: Linda Hirsch, Prof. Dr. Florian Alt, Prof Dr. Ville Mäkelä)</li>
             <li>(<a href="https://github.com/luki/programmiersprache-l">2</a>) a logical programming language written in Haskell</li>
