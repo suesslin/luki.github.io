@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aufsätze
+title: Writings (GER)
 permalink: /aufsaetze/
 ---
 
