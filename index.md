@@ -17,7 +17,7 @@ layout: page
 
     <p>Along my academic journey I have also gained practical experience through roles such as a Software Engineering Working Student at the renowned German-speaking Q&A platform, gutefrage, from July 2020 to September 2021 in Munich. For three months, I have also been a student assistant in Human-AI Interaction Design for aviation at the Research Institute of the Free State of Bavaria for software-intensive Systems and Services. Additionally, I undertook internships at Ulysses, a text editor application company in Leipzig, and tresmo, an IoT firm in Augsburg, during my high school summer breaks.</p>
 
-    <p>Besides university, I'm a member of the <i>Education and Science Workers' Union</i> (GEW) in Saxony and participate in Dresden's local university group of the <i>German Trade Union Confederation</i> (DGB-HSG) and the labor agreement initiative <i>TVStud</i>.</p>
+    <p>Besides university, I'm a member of the <i><a href="https://www.gew-sachsen.de/">Education and Science Workers' Union</i> (GEW) in Saxony and participate in Dresden's local university group of the <a><i href="https://sachsen-jugend.dgb.de/studium/mitmachen/hochschulgruppen">German Trade Union Confederation</i></a> (DGB-HSG) and the labor agreement initiative <a href="https://tvstud.de/"><i>TVStud</i></a>.</p>
 
     <h1>Select project work</h1>    
         <ul>
