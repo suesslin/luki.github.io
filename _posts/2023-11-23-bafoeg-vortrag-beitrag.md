@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Veranstaltungsbeitrag zu »Warum das BAföG so abgefuckt ist« der DGB-HSG Dresden"
+title: "Redebeitrag zur Veranstaltung »Warum das BAföG so abgefuckt ist« der DGB-HSG Dresden"
 tags: deutsch aufsatz bafoeg bafög dgb dresden
 date: 2023-11-23
 ---
