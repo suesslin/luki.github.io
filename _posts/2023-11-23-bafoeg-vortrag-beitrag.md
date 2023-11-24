@@ -8,7 +8,7 @@ date: 2023-11-23
 
 <h2>Beitrag</h2>
 
-Der folgende Beitrag war mein Beitrag zur Veranstaltung »Warum das BAföG so abgefuckt ist: Was würde ich ändern?« der DGB Hochschulgrupe Dresden. Er diente als Einleitung zum Vortrag Sonja Bolenius', der Ansprechpartnerin für Hochschul- und Wissenschaftspolitik des DGBs.
+Der folgende Beitrag war Teil diente als Einleitung zur Veranstaltung »Warum das BAföG so abgefuckt ist: Was würde ich ändern?« der DGB Hochschulgrupe Dresden. Danach folgte der inhaltliche Kern von Sonja Bolenius, der Ansprechpartnerin für Hochschul- und Wissenschaftspolitik des DGBs.
 
 Diese Veranstaltung hält sich hinsichtlich ihrer emotionalen Rezeption des Themas BAföG keinesfalls bedeckt.
 
