@@ -2,9 +2,8 @@
 layout: post
 title: "Veranstaltungsbeitrag zu »Warum das BAföG so abgefuckt ist« der DGB-HSG Dresden"
 tags: deutsch aufsatz bafoeg bafög dgb dresden
-date: 2023-23-11
+date: 2023-11-23
 ---
-
 <img style="height: 300px; width: auto;" src="https://i.postimg.cc/R9yXJdRt/bafoeg-vortrag-flyer.png"></img>
 
 Der folgende Beitrag war mein Beitrag zur Veranstaltung »Warum das BAföG so abgefuckt ist: Was würde ich ändern?« der DGB Hochschulgrupe Dresden. Er diente als Einleitung zum Vortrag Sonja Bolenius', der Ansprechpartnerin für Hochschul- und Wissenschaftspolitik des DGBs.
