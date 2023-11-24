@@ -6,7 +6,7 @@ date: 2023-11-23
 ---
 <img alt="Werbeflyer für die Veranstaltung" style="height: 350px; width: auto;" src="https://i.postimg.cc/R9yXJdRt/bafoeg-vortrag-flyer.png">
 
-<h2>Beitrag</h2>
+<h2>Einleitung</h2>
 
 Der folgende Beitrag war Teil diente als Einleitung zur Veranstaltung »Warum das BAföG so abgefuckt ist: Was würde ich ändern?« der DGB Hochschulgrupe Dresden. Danach folgte der inhaltliche Kern von Sonja Bolenius, der Ansprechpartnerin für Hochschul- und Wissenschaftspolitik des DGBs.
 
