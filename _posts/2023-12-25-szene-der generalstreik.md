@@ -15,7 +15,7 @@ sie gehen rein; werfen die clubinhabenden raus.
 dort ergibt sich folgendes bild:
 
 DJs streiken, mitgebrachtes bier stellt die tresen zu.
-aus der Ccowd prescht eine person zum mixer vor. ein usb stick wird hervorgebracht.
+aus der crowd prescht eine person zum mixer vor. ein usb stick wird hervorgebracht.
 es folgt ein wortwechsel mit einem dj. 
 kurz darauf spielt – das solidaritätslied. 
 ein zustimmendes »jawoll!« der massen schallt nach vorn, die redner schwingen sich auf's pult.
