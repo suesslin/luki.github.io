@@ -1,17 +1,16 @@
 ---
 layout: post
-title:  "Szene: Der Generalstreik"
+title:  "szene: der generalstreik"
 tags: lyrik deutsch gedicht generalstreik gewerkschaft aufstand 
 date: 2023-12-25
 ---
 
-In den großstaedtischen Straßen schallt es:
+in den großstaedtischen straßen schallt es:
   MACHT EUCH EIN EXTRA LANGES WOCHENENDE LEUTE!
   geht in eure clubs, zahlt keinen eintritt!
 
 einige personen vorm club zu den tuerstehern: 
   jungs, heute ist kein arbeitstag, heute ist streiktag! 
-  
 sie gehen rein; werfen die clubinhabenden raus.
 dort ergibt sich folgendes bild:
 
