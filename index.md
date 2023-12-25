@@ -6,8 +6,8 @@ layout: page
 ---
 
 <div style="@media only screen and (max-width: 780px) { float: none; } float: right; max-width: 30%; height: auto;">
-    <img style="width: 100%;" src="https://i.postimg.cc/J7t1sBGX/IMG-3626-2.jpg">
-    <p style="color: #828282; padding-top: 5px; font-size: 10pt;">Oct 2022, Leipzig-Lindenau</p>
+    <img style="width: 100%;" src="https://i.postimg.cc/RhFTtxsH/IMG-2648-3.jpg">
+    <p style="color: #828282; padding-top: 5px; font-size: 10pt;">Oct 2023</p>
 </div>
 <div style="float: left; width: 65%; padding-right: 5%; @media only screen and (max-width: 780px) { float: none; }">
 
