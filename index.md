@@ -13,7 +13,7 @@ layout: page
 
     <h1>Introduction</h1>
 
-    <p>Enrolled in Media Informatics at Dresden University of Technology (TUD) for the winter term 2023/24 and serving as a Student Assistant for Professor Gerhard Weber's courses of <i>Human Computer Interaction</i> and <i>Introduction to Media Informatics</i> whilst. Moving onto another degree and university next term. In the summer of 2023, I completed my B.Sc. in Computer Science and Computational Linguistics at Ludwig Maximilian University (University of Munich).</p>
+    <p>Enrolled in Media Informatics at Dresden University of Technology (TUD) for the winter term 2023/24 and serving as a Student Assistant for Professor Gerhard Weber's courses of <i>Human Computer Interaction</i> and <i>Introduction to Media Informatics</i> whilst. Changing studies and moving to Vienna starting summer term 2024. In the summer of 2023, I completed my B.Sc. in Computer Science and Computational Linguistics at Ludwig Maximilian University (University of Munich).</p>
 
     <p>Along my academic journey I have also gained practical experience through roles such as a Software Engineering Working Student at the renowned German-speaking Q&A platform, gutefrage, from July 2020 to September 2021 in Munich. For three months, I have also been a student assistant in Human-AI Interaction Design for aviation at the Research Institute of the Free State of Bavaria for software-intensive Systems and Services. Additionally, I undertook internships at Ulysses, a text editor application company in Leipzig, and tresmo, an IoT firm in Augsburg, during my high school summer breaks.</p>
 
