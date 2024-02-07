@@ -13,7 +13,7 @@ layout: page
 
 <h1>Introduction</h1>
 
-Who is Lou Süsslin? A short summary of both their academic and professional career thus far.  
+Who is Lou Süsslin? A short summary of their academic and professional career thus far and a few more details about their persona.  
 
 <h2>Academic career</h2>
 
