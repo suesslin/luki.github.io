@@ -11,11 +11,12 @@ layout: page
 </div>
 <div style="float: left; width: 65%; padding-right: 5%; @media only screen and (max-width: 780px) { float: none; }">
 
-    <h1>Introduction</h1>
+    <h1>Academic career</h1>
 
-    <p>Enrolled in Media Informatics at Dresden University of Technology (TUD) for the winter term 2023/24 and serving as a Student Assistant for Professor Gerhard Weber's courses of <i>Human Computer Interaction</i> and <i>Introduction to Media Informatics</i> whilst. Changing studies and moving to Vienna starting summer term 2024. In the summer of 2023, I completed my B.Sc. in Computer Science and Computational Linguistics at Ludwig Maximilian University (University of Munich).</p>
+    <p>I have completed completed my B.Sc. in Computer Science (Minor: Computational Linguistics) at Ludwig Maximilian University (University of Munich) in August of 2023. In the winter term of 2023/24 I looked into the Media Informatics major at Dresden University of Technology (TUD) but decided it wasn't right for me. In March of 2024, I am going to move to Vienna in March of 2024, where I will commence my studies of Data Science.</p>
 
-    <p>Along my academic journey I have also gained practical experience through roles such as a Software Engineering Working Student at the renowned German-speaking Q&A platform, gutefrage, from July 2020 to September 2021 in Munich. For three months, I have also been a student assistant in Human-AI Interaction Design for aviation at the Research Institute of the Free State of Bavaria for software-intensive Systems and Services. Additionally, I undertook internships at Ulysses, a text editor application company in Leipzig, and tresmo, an IoT firm in Augsburg, during my high school summer breaks.</p>
+<h2>Work experience</h2>
+    <p>Along my academic journey I have also gained practical experience. Most recently, I have worked as a student assistant for the courses of <i>Human Computer Interaction</i> and <i>Introduction to Media Informatics</i> at TUD. My tasks included holding practice seminars, preparing slides and grading assignmenents. In three months of the summer of 2022, I have also been a student assistant in Human-AI Interaction Design for aviation at the Research Institute of the Free State of Bavaria for software-intensive Systems and Services. Additionally, I undertook internships at Ulysses, a text editor application company in Leipzig, and tresmo, an IoT firm in Augsburg, during my high school summer breaks. I have also gained experience in the industry by working as Software Engineering Working Student at the renowned German-speaking Q&A platform, gutefrage, from July 2020 to September 2021 in Munich.</p>
 
     <h1>Select project work</h1>    
         <ul>
