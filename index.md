@@ -19,7 +19,7 @@ layout: page
 
 <p>Along my academic journey I have also gained practical experience. Most recently, I have worked as a student assistant for the courses of <i>Human Computer Interaction</i> and <i>Introduction to Media Informatics</i> at TUD. My tasks included holding practice seminars, preparing slides and grading assignmenents. In three months of the summer of 2022, I have also been a student assistant in Human-AI Interaction Design for aviation at the Research Institute of the Free State of Bavaria for software-intensive Systems and Services. I have also gained experience in the industry by working as Software Engineering Working Student at the renowned German-speaking Q&A platform, gutefrage, from July 2020 to September 2021 in Munich.</p>
     
-<p>During high school summer breaks, I have interned twice. Once at Apple Design Award-winning Ulysses, text editor application company in Leipzig, and later at tresmo, an Augsburg-based IoT firm.</p>
+<p>During high school summer breaks, I have interned twice. Once at Apple Design Award-winning Ulysses, a text editor application company in Leipzig, and later at tresmo, an Augsburg-based IoT firm.</p>
 
 <p>In my spare time, amongst other activites, I produce techno and other electronic music under the artist name <i>Awkward Endeavor</i> (<a href="https://soundcloud.com/awkwardendeavor">SoundCloud</a> | <a href="https://awkwardendeavor.bandcamp.com">bandcamp</a> | <a href="https://open.spotify.com/artist/2qegQdSFPKUy3swzN1pRqT?si=pv80FJk1ROaqtdZEmw9zxQ">Spotify</a>)</p>
 
