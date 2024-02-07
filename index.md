@@ -11,7 +11,11 @@ layout: page
 </div>
 <div style="float: left; width: 65%; padding-right: 5%; @media only screen and (max-width: 780px) { float: none; }">
 
-    <h1>Academic career</h1>
+<h1>Introduction</h1>
+
+Who is Lou Süsslin? A short summary of both their academic and professional career thus far.  
+
+<h1>Academic career</h1>
 
     <p>I have completed completed my B.Sc. in Computer Science (Minor: Computational Linguistics) at Ludwig Maximilian University (University of Munich) in August of 2023. In the winter term of 2023/24 I looked into the Media Informatics major at Dresden University of Technology (TUD) but decided it wasn't right for me. In March of 2024, I am going to move to Vienna in March of 2024, where I will commence my studies of Data Science.</p>
 
