@@ -5,9 +5,9 @@ title:  "Contact"
 
 <h1>E-Mail</h1>
 
-As long as I am enrolled at TUD please feel free to reach out to me using the email address displayed in the image below (as a precaution against spam). 
+Please feel free to reach out to me using the email address displayed in the image below (as a precaution against spam). 
 
-<img src="https://i.postimg.cc/QNwmKZxb/mail-suesslin.png" height="30px">
+<img src="https://i.postimg.cc/fLL2V9gW/mail-suesslin.png" height="30px">
 
 <h1>Form of address</h1>
 
