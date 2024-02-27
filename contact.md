@@ -13,15 +13,11 @@ Please feel free to reach out to me using the email address displayed in the ima
 
 <table>
   <tr>
-    <td>Last name spelling</td>
-    <td>Please use <i>ü</i>, alternatively <i>ue</i>; Never <i>u</i></td>
+    <td>Title <br>Anrede</td>
+    <td><i>Mx. Suesslin</i> or just <i>Lou Suesslin</i> <br> <i>Lou Süsslin</i> (plural)</td>
   </tr>
   <tr>
-    <td>Title</td>
-    <td>Please use "Mx. &lt;Last_Name&gt; or just &lt;First_Name&gt; &lt;Last_Name&gt;"</td>
-  </tr>
-  <tr>
-    <td>Pronouns</td>
-    <td>They/them, he/him</td>
+    <td>Pronouns <br>Pronomen</td>
+    <td><i>They/them</i> <br> <i>Sie/deren</i></td>
   </tr>
 </table>
