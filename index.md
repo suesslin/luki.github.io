@@ -15,7 +15,7 @@ layout: page
 
 <p>Who is Lou Süsslin? A short summary of my academic and professional career thus far and a few more details about my persona.</p>
 
-<p>I have completed completed my B.Sc. degree in Computer Science (with Computational Linguistics as a minor) at Ludwig Maximilian University (or: University of Munich) in August of 2023. In the winter term of 2023/24 I looked into the Media Informatics major at Dresden University of Technology (TUD) but decided it wasn't right for me. In March of 2024, I am going to move to Vienna to continue my journey.
+<p>I have completed completed my B.Sc. degree in Computer Science (with Computational Linguistics as a minor) at Ludwig Maximilian University (or: University of Munich) in August of 2023. In the winter term of 2023/24 I looked into the Media Informatics major at Dresden University of Technology (TUD) but decided it wasn't right for me. Since March 2024 I'm living in Vienna.
 
 <p>Along my academic journey I have also gained practical experience. Most recently, I have worked as a student assistant for the courses of <i>Human Computer Interaction</i> and <i>Introduction to Media Informatics</i> at TUD. My tasks included holding practice seminars, preparing slides and grading assignmenents. In three months of the summer of 2022, I have also been a student assistant in Human-AI Interaction Design for aviation at the Research Institute of the Free State of Bavaria for software-intensive Systems and Services. I have also gained experience in the industry by working as a Software Engineering Working Student at the renowned German-speaking Q&A platform, gutefrage, from July 2020 to September 2021 in Munich.</p>
     
