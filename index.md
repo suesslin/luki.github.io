@@ -6,7 +6,7 @@ layout: page
 ---
 
 <div style="@media only screen and (max-width: 780px) { float: none; } float: right; max-width: 30%; height: auto;">
-    <img style="width: 300px;" src="https://avatars.githubusercontent.com/u/15147703?v=4">
+    <img style="width: 120px;" src="https://i.postimg.cc/gcHvYPGJ/15147703.png">
     <p style="color: #828282; padding-top: 5px; font-size: 10pt;">Oct 2023</p>
 </div>
 <div style="float: left; width: 65%; padding-right: 5%; @media only screen and (max-width: 780px) { float: none; }">
@@ -28,7 +28,7 @@ layout: page
              <li>(<a href="https://www.researchgate.net/publication/371987298_Visualizing_and_Counteracting_Touch_Overlap_during_Public_Display_Interaction">1</a>) <i>Beyond Recommendations: From Backward to Forward AI Support of Pilots’ Decision-Making Process</i> (Zelun Tony Zhang, Sebastian S. Feger, Lucas Dullenkopf, Rulu Liao, Lukas Süsslin, Yuanting Liu, Andreas Butz)<br> a project I contributed to, the paper of which got accepted at ACM Proceedings on HCI (Oct 2024)</li>
              <li>(<a href="https://www.researchgate.net/publication/371987298_Visualizing_and_Counteracting_Touch_Overlap_during_Public_Display_Interaction">2</a>) <i>Visualizing and Counteracting Touch Overlap during Public Display Interaction</i> (Supervisors: Linda Hirsch, Prof. Dr. Florian Alt, Prof Dr. Ville Mäkelä)<br> my bachelor's thesis at the HCI group of LMU Munich</li>
             <li>(<a href="https://github.com/luki/programmiersprache-l">3</a>) <i>Programmiersprache L</i><br> a logical programming language written in Haskell for a practical seminar (Group members: Marco D'Amelio, Maximilian Seilmaier</li>
-            <li>(<a href="https://github.com/luki/alleviating-struggles-in-the-office">4</a>) <i>Alleviating Struggles at the Office: Leveraging Mobile Sensing to Understand and Counteract Issues</i><br>a "media informatics" seminar paper:</li>
+            <li>(<a href="https://github.com/luki/alleviating-struggles-in-the-office">4</a>) <i>Alleviating Struggles at the Office: Leveraging Mobile Sensing to Understand and Counteract Issues</i><br>a "media informatics" seminar paper</li>
         </ul>
 
     <h2>Other references</h2>
