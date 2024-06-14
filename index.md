@@ -6,7 +6,7 @@ layout: page
 ---
 
 <div style="@media only screen and (max-width: 780px) { float: none; } float: right; max-width: 30%; height: auto;">
-    <img style="width: 100%;" src="https://i.postimg.cc/RhFTtxsH/IMG-2648-3.jpg">
+    <img style="width: 100%;" src="[https://i.postimg.cc/RhFTtxsH/IMG-2648-3.jpg](https://avatars.githubusercontent.com/u/15147703?v=4)">
     <p style="color: #828282; padding-top: 5px; font-size: 10pt;">Oct 2023</p>
 </div>
 <div style="float: left; width: 65%; padding-right: 5%; @media only screen and (max-width: 780px) { float: none; }">
@@ -23,11 +23,12 @@ layout: page
 
 <p>In my spare time, amongst other activites, I produce techno and other electronic music under the artist name <i>Awkward Endeavor</i> (<a href="https://soundcloud.com/awkwardendeavor">SoundCloud</a> | <a href="https://awkwardendeavor.bandcamp.com">bandcamp</a> | <a href="https://open.spotify.com/artist/2qegQdSFPKUy3swzN1pRqT?si=pv80FJk1ROaqtdZEmw9zxQ">Spotify</a>)</p>
 
-<h2>Select project work</h2>    
+<h2>Academic Works</h2>    
         <ul>
-             <li>(<a href="https://www.researchgate.net/publication/371987298_Visualizing_and_Counteracting_Touch_Overlap_during_Public_Display_Interaction">1</a>) my bachelor's thesis at the HCI group of LMU Munich, "Visualizing and Counteracting Touch Overlap during Public Display Interaction" (Supervisors: Linda Hirsch, Prof. Dr. Florian Alt, Prof Dr. Ville Mäkelä)</li>
-            <li>(<a href="https://github.com/luki/programmiersprache-l">2</a>) a logical programming language written in Haskell</li>
-            <li>(<a href="https://github.com/luki/alleviating-struggles-in-the-office">3</a>) a "media informatics" seminar paper on leveraging mobile sensors to tackle (health) issues in offices</li>
+             <li>(<a href="https://www.researchgate.net/publication/371987298_Visualizing_and_Counteracting_Touch_Overlap_during_Public_Display_Interaction">1</a>) <i>Beyond Recommendations: From Backward to Forward AI Support of Pilots’ Decision-Making Process</i> (Zelun Tony Zhang, Sebastian S. Feger, Lucas Dullenkopf, Rulu Liao, Lukas Süsslin, Yuanting Liu, Andreas Butz)<br> a project I contributed to, the paper of which got accepted at ACM Proceedings on HCI (Oct 2024)</li>
+             <li>(<a href="https://www.researchgate.net/publication/371987298_Visualizing_and_Counteracting_Touch_Overlap_during_Public_Display_Interaction">2</a>) <i>Visualizing and Counteracting Touch Overlap during Public Display Interaction</i> (Supervisors: Linda Hirsch, Prof. Dr. Florian Alt, Prof Dr. Ville Mäkelä)<br> my bachelor's thesis at the HCI group of LMU Munich</li>
+            <li>(<a href="https://github.com/luki/programmiersprache-l">3</a>) <i>Programmiersprache L</i><br> a logical programming language written in Haskell for a practical seminar (Group members: Marco D'Amelio, Maximilian Seilmaier</li>
+            <li>(<a href="https://github.com/luki/alleviating-struggles-in-the-office">4</a>) <i>Alleviating Struggles at the Office: Leveraging Mobile Sensing to Understand and Counteract Issues</i><<br>a "media informatics" seminar paper:</li>
         </ul>
 
     <h2>Other references</h2>
