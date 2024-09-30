@@ -26,7 +26,7 @@ During three months of the summer of 2022, I have also supported a research proj
 
 <h2>Academic Works</h2>    
         <ul>
-             <li>(<a href="https://arxiv.org/abs/2406.08959">1</a>) <i>Beyond Recommendations: From Backward to Forward AI Support of Pilots’ Decision-Making Process</i> (Zelun Tony Zhang, Sebastian S. Feger, Lucas Dullenkopf, Rulu Liao, Lukas Süsslin, Yuanting Liu, Andreas Butz)<br> a project I contributed to, the paper of which is to be published in PACM HCI Vol. 8, No. CSCW2 in October of 2024</li>
+             <li>(<a href="https://arxiv.org/abs/2406.08959">1</a>) <i>Beyond Recommendations: From Backward to Forward AI Support of Pilots’ Decision-Making Process</i> (Zelun Tony Zhang, Sebastian S. Feger, Lucas Dullenkopf, Rulu Liao, Lou Süsslin, Yuanting Liu, Andreas Butz)<br> a project I contributed to, the paper of which is to be published in PACM HCI Vol. 8, No. CSCW2 in October of 2024</li>
              <li>(<a href="https://www.researchgate.net/publication/371987298_Visualizing_and_Counteracting_Touch_Overlap_during_Public_Display_Interaction">2</a>) <i>Visualizing and Counteracting Touch Overlap during Public Display Interaction</i> (Supervisors: Linda Hirsch, Prof. Dr. Florian Alt, Prof Dr. Ville Mäkelä)<br> my bachelor's thesis at the HCI group of LMU Munich</li>
             <li>(<a href="https://github.com/luki/programmiersprache-l">3</a>) <i>Programmiersprache L</i><br> a logical programming language written in Haskell for a practical seminar (Group members: Marco D'Amelio, Maximilian Seilmaier</li>
             <li>(<a href="https://github.com/luki/alleviating-struggles-in-the-office">4</a>) <i>Alleviating Struggles at the Office: Leveraging Mobile Sensing to Understand and Counteract Issues</i><br>a "media informatics" seminar paper</li>
@@ -36,7 +36,8 @@ During three months of the summer of 2022, I have also supported a research proj
 
     <ul>
         <li><a href="https://www.linkedin.com/in/suesslin/">LinkedIn</a></li>
-        <li><a href="https://github.com/luki">GitHub</a></li>
+        <li><a href="https://github.com/suesslin">GitHub</a></li>
+        <li><a href="https://arxiv.org/abs/2406.08959">Google Scholar</a></li>
     </ul>
     
 <h2>Origin Story</h2>
