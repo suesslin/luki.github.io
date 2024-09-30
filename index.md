@@ -7,7 +7,7 @@ layout: page
 
 <div style="@media only screen and (max-width: 780px) { float: none; } float: right; max-width: 30%; height: auto;">
     <img style="width: 120px;" src="https://i.postimg.cc/gcHvYPGJ/15147703.png">
-    <p style="color: #828282; padding-top: 5px; font-size: 10pt;">Oct 2023</p>
+    <p style="color: #828282; padding-top: 5px; font-size: 10pt;">Feb 2024</p>
 </div>
 <div style="float: left; width: 65%; padding-right: 5%; @media only screen and (max-width: 780px) { float: none; }">
 
