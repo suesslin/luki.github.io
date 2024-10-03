@@ -37,7 +37,7 @@ During three months of the summer of 2022, I have also supported a research proj
     <ul>
         <li><a href="https://www.linkedin.com/in/suesslin/">LinkedIn</a></li>
         <li><a href="https://github.com/suesslin">GitHub</a></li>
-        <li><a href="https://arxiv.org/abs/2406.08959">Google Scholar</a></li>
+        <li><a href="https://scholar.google.com/citations?user=uHkKGk4AAAAJ">Google Scholar</a></li>
     </ul>
     
 <h2>Origin Story</h2>
