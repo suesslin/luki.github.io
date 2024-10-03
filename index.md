@@ -22,7 +22,7 @@ During three months of the summer of 2022, I have also supported a research proj
     
 <p>During high school summer breaks, I have interned twice. Once at Apple Design Award-winning Ulysses, a text editor application company in Leipzig, and before at tresmo, an Augsburg-based IoT firm.</p>
 
-<p>In my spare time, amongst other activites, I produce techno and other electronic music under the artist name <i>Awkward Endeavor</i> (<a href="https://soundcloud.com/awkwardendeavor">SoundCloud</a> | <a href="https://awkwardendeavor.bandcamp.com">bandcamp</a> | <a href="https://open.spotify.com/artist/2qegQdSFPKUy3swzN1pRqT?si=pv80FJk1ROaqtdZEmw9zxQ">Spotify</a>)</p>
+<p>In my spare time, amongst other activites, I produce techno and other electronic music and perform as a DJ under the artist name <i>Awkward Endeavor</i> (<a href="https://soundcloud.com/awkwardendeavor">SoundCloud</a> | <a href="https://www.residentadvisor.net/dj/awkwardendeavor">Resident Advisor</a> | <a href="https://awkwardendeavor.bandcamp.com">bandcamp</a> | <a href="https://open.spotify.com/artist/2qegQdSFPKUy3swzN1pRqT?si=pv80FJk1ROaqtdZEmw9zxQ">Spotify</a>)</p>
 
 <h2>Academic Works</h2>    
         <ul>
