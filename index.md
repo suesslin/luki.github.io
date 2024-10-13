@@ -6,7 +6,7 @@ layout: page
 ---
 
 <div style="@media only screen and (max-width: 780px) { float: none; } float: right; max-width: 30%; height: auto;">
-    <img style="width: 120px;" src="https://avatars.githubusercontent.com/u/15147703?v=4">
+    <img style="width: 120px;" src="https://i.postimg.cc/D0G5Kj5V/IMG-0106-copy-4.jpg">
     <p style="color: #828282; padding-top: 5px; font-size: 10pt;">Sep 2024</p>
 </div>
 <div style="float: left; width: 65%; padding-right: 5%; @media only screen and (max-width: 780px) { float: none; }">
