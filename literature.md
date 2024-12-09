@@ -12,4 +12,9 @@ This is a list of sources I read in an academic context and recommend. It is not
 </ul>
 
 <h3>Articles</h3>
+
 <h2>Wishlist</h2>
+<ul>
+  <li>Fuchs, C., 2021. <i>Das digitale Kapital</i>, Vienna: Mandelbaum Verlag eG</li>
+  <li>Daum, T., 2023. <i>Big Data China</i>, Vienna: Mandelbaum Verlag eG</li>
+</ul>
