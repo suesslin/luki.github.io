@@ -14,8 +14,6 @@ This is a list of sources I read in an academic context and recommend. It is not
     </ul>
   </li>
 </ul>
-<ul>
-</ul>
 
 <h3>Articles</h3>
 <ul>
