@@ -8,7 +8,13 @@ This is a list of sources I read in an academic context and recommend. It is not
 <h2>Recommendations</h2>
 <h3>Books</h3>
 <ul>
-  <li>Schadt, Peter. "Digitalisierung" PapyRossa Verlags GmbH & Co. KG (2022)</li>
+  <li>German
+    <ul>
+       <li>Schadt, Peter. "Digitalisierung" PapyRossa Verlags GmbH & Co. KG (2022)</li>
+    </ul>
+  </li>
+</ul>
+<ul>
 </ul>
 
 <h3>Articles</h3>
