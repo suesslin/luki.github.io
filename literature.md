@@ -17,8 +17,19 @@ This is a list of sources I read in an academic context and recommend. It is not
 
 <h3>Articles</h3>
 <ul>
-  <li>Deng, Jet. Dai, Ken. "First Court Judgment on Cross-Border Personal Information Transfer in China: Local Adaptation Required for Multinational Companies’ GDPR Privacy Policies" Lexology. <a href="https://www.lexology.com/library/detail.aspx?g=0ef7b467-b539-44b0-b138-b77ef0ac3767">https://www.lexology.com/library/detail.aspx?g=0ef7b467-b539-44b0-b138-b77ef0ac3767</a></li>
-  <li>Albrecht, Daniel. "Chinese first Personal Information Protection Law in contrast to the European GDPR" Computer Law Review International 23, no. 1 (2022): 1-5. <a href="https://doi.org/10.9785/cri-2022-230102">https://doi.org/10.9785/cri-2022-230102</a></li>
+  <li>
+    <h4>Academic</h4>
+    <ul>
+      <li>Deng, Jet. Dai, Ken. "First Court Judgment on Cross-Border Personal Information Transfer in China: Local Adaptation Required for Multinational Companies’ GDPR Privacy Policies" Lexology. <a href="https://www.lexology.com/library/detail.aspx?g=0ef7b467-b539-44b0-b138-b77ef0ac3767">https://www.lexology.com/library/detail.aspx?g=0ef7b467-b539-44b0-b138-b77ef0ac3767</a></li>
+      <li>Albrecht, Daniel. "Chinese first Personal Information Protection Law in contrast to the European GDPR" Computer Law Review International 23, no. 1 (2022): 1-5. <a href="https://doi.org/10.9785/cri-2022-230102">https://doi.org/10.9785/cri-2022-230102</a></li>
+    </ul>
+  </li>
+  <li>
+  <h4>Other</h4>
+  <ul>
+    <li>Sarkar, Abhinav. "Getting Started with Nix for Haskell". <a href="https://abhinavsarkar.net/posts/nix-for-haskell/">https://abhinavsarkar.net/posts/nix-for-haskell/</a></li>
+  </ul>
+</li>
 </ul>
 
 
