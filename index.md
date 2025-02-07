@@ -43,7 +43,7 @@ During three months of the summer of 2022, I have also supported a research proj
         <li><a href="https://www.linkedin.com/in/suesslin/">LinkedIn</a></li>
         <li><a href="https://github.com/suesslin">GitHub</a></li>
         <li><a href="https://scholar.google.com/citations?user=uHkKGk4AAAAJ">Google Scholar</a></li>
-        <li><a href="https://orcid.org/0009-0004-3922-4578">ORC (0009-0004-3922-4578)</a></li>
+        <li><a href="https://orcid.org/0009-0004-3922-4578">ORCID (0009-0004-3922-4578)</a></li>
     </ul>
     
 <h2>Origin Story</h2>
