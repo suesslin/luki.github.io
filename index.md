@@ -15,7 +15,7 @@ layout: page
 
 <p>Hello, I'm "Lou" Elah SÜSSLIN <sub>(Neutral address, Pronouns: they/them)</sub>. Let me introduce myself through my academic and professional career thus far and a few further details about my persona.</p>
 
-<p>I have completed completed my B.Sc. degree in Computer Science (with Computational Linguistics as a minor) at Ludwig Maximilian University (or: University of Munich) in August of 2023. Since March 2024 I'm living in Vienna and study Data Science (M.Sc.) at Vienna University of Technology (or TU Wien).
+<p>I have completed completed my B.Sc. degree in Computer Science (with Computational Linguistics as a minor) at Ludwig Maximilian University (or: University of Munich) in August of 2023. Since March 2024 I'm living in Vienna and study Data Science (M.Sc.) at Vienna University of Technology (or: TU Wien).
 
 <p>Along my academic journey I have also gained practical experience. As of October 2024, I'm working as a private tutor (100+h of one on one lessons). Otherwise, I have functioned and do function as a teaching assistant for courses such as:<br>
     <ul>
