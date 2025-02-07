@@ -19,7 +19,7 @@ layout: page
 
 <p>Along my academic journey I have also gained practical experience. As of October 2024, I'm working as a private tutor (100+h of one on one lessons). Otherwise, I have functioned and do function as a teaching assistant for courses such as:<br>
     <ul>
-        <li><i>Advanced Functional Programming</i>, TU Wien, Dr. Prof. Jens Knoop, Summer term 2025 (Currently)</li>
+        <li><i>Advanced Functional Programming</i>, TU Wien, Prof. Dr. Jens Knoop, Summer term 2025 (Currently)</li>
         <li><i>Introduction to Programming 1</i>, TU Wien, Dr. Stefan Podlipnig, Winter term 2024/25</li>
         <li><i>Introduction to Media Informatics</i> and <i>Human-Computer Interaction</i>, TU Dresden, Prof. Dr. Gerhard Weber, Winter term 2023/24</li>
     </ul>
