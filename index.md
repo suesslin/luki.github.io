@@ -19,15 +19,15 @@ layout: page
 
 <p>Along my academic journey I have also gained practical experience. As of October 2024, I'm working as a private tutor (100+h of one on one lessons). Otherwise, I have functioned and do function as a teaching assistant for courses such as:<br>
     <ul>
-        <li><i>Advanced Functional Programming</i>,<br>TU Wien,<br>Summer term 2025 (Currently)</li>
-        <li><i>Introduction to Programming 1</i>,<br>TU Wien,<br>Winter term 2024/25</li>
-        <li><i>Introduction to Media Informatics</i> and <i>Human-Computer Interaction</i>,<br>TU Dresden,<br>Winter term 2023/24</li>
+        <li><i>Advanced Functional Programming</i>, TU Wien, Summer term 2025 (Currently)</li>
+        <li><i>Introduction to Programming 1</i>, TU Wien, Winter term 2024/25</li>
+        <li><i>Introduction to Media Informatics</i> and <i>Human-Computer Interaction</i>, TU Dresden, Winter term 2023/24</li>
     </ul>
 During three months of the summer of 2022, I have also supported a research project in Human-AI Interaction Design for aviation at the <i>Research Institute of the Free State of Bavaria for software-intensive Systems and Services</i> (fortiss). I have also gained experience in the industry by working as a Software Engineering Working Student at the renowned German-speaking Q&A platform, gutefrage, from July 2020 to September 2021 in Munich.</p>
     
 <p>During high school summer breaks, I have interned twice. Once at Apple Design Award-winning Ulysses, a text editor application company in Leipzig, and before at tresmo, an Augsburg-based IoT firm.</p>
 
-<p>In my spare time, amongst other activites, I produce techno and other electronic music and perform as a DJ under the artist name <i>Elah</i>, fomerly as <i>Awkward Endeavor</i><br>(<a href="https://soundcloud.com/elah">SoundCloud</a> | <a href="https://www.residentadvisor.net/dj/elah">Resident Advisor</a></p>
+<p>In my spare time, amongst other activites, I produce techno and other electronic music and perform as a DJ under the artist name <i>Elah</i>, fomerly as <i>Awkward Endeavor</i><br>(<a href="https://soundcloud.com/elah">SoundCloud</a> | <a href="https://www.residentadvisor.net/dj/elah">Resident Advisor</a>)</p>
 
 <h2>Academic Works</h2>    
         <ul>
