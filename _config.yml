@@ -34,7 +34,7 @@ header_pages:
  - contact.md
 
 # Build settings
-theme: academic-jekyll-theme
+theme: minima
 plugins:
   - jekyll-feed
 
