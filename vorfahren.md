@@ -33,13 +33,13 @@ Die Herleitung der Namensentstehung kam zustande bei dem Versuch der Herleitung 
 Im 16. Jahrhundert schreibt man Nachfahren in Augsburg Dilbaum oder Dillbaum und Auswanderer nach Tübingen Thül(l)baum oder Thül(l)paum. 
 Der letzte der Augsburger Familie in Augsburg ist der Samuel, geschrieben Thillbaum. Er stirbt 1681 in Augsburg, sein letzter Steuerbucheintrag (1681, S. 42b) ist in diesem Jahr und daneben die Notiz: "todt ab".
 
-## Isaak Heinrich Scherer (1745, Augsburg – 1821, Augsburg)
+## Isaak Heinrich Scherer (1745, Augsburg – 1821, ebd.)
 
 Der Vater der vorig genannten Anna Sybilla Scherer erblickte am 25. April 1745 in der Freien Reichsstadt Augsburg (also vor Zwangseingliederung nach Bayern) das Licht der Welt. Geboren wurde er in eine uralte evangelische Augsburger Weberfamilie, die aufjedenfall bereits vor 1594 dort ansässig war (vermutliuch gar länger). 
 Sein Vater war der Augsburger Gardesoldat (»Quarde-Soldat«) Matthaus Scherer (1698–1758) und die aus der Freien Reichsstadt Nördlingen stammenden Zimmererstochter Maria Salome Geißel (1707–1792). Im Alter von 30 Jahren heiratete der Reichskontigentsfeldwaibel (vermutlich des schwäbischen Reichskreises) am 1 Juli 1781 die aus »Hürth im Pappenheimischen« (gemeint ist wohl Hürth, heute Teil von Treuchtlingen) stammende Maria Walburga Hönig (1751–1828). 
 Geheiratet wurde in der Heilig-Geist-Kapelle (neben der heutigen Puppenkiste!), die von der Gemeinde (evangelisch) St. Ulrich für Hochzeiten verwendet wurde. Später fungierte Isaak Heinrich als Torschreiber der Stadt (Vermutung: am ehemaligen Schwibbogentor oder am Roten-/Haunstetter-/Spitaltor). Laut Barfüßerkirche verstarb er am 26. Dezember 1821 um 6 Uhr morgens an einem Hirnschlag.  
 
-## Daniel (1584 oder 1587 – 1648) und Anna Paulus (1630–n.a.)
+## Daniel (1584 oder 1587, Augsburg – 1648, ebd.) und Anna Paulus (1630, Augsburg –n.a., ebd.)
 
 In der Linie der Scherer kommen auch die Paulus vor. Die Großmutter des Matthäus, Isaaks Vater, war die Anna Paulus. Fangen wir bei ihrem Vater Daniel an.
 Aufgrund von Lücken in den reichsstädtischen Taufbüchern ist nicht ganz klar, wann Daniel Paulus geboren ist. Durch die Musterregister kommen aber die Jahre 1584 und 1587 infrage und als Beruf nur der Weber. 
