@@ -19,14 +19,12 @@ This is a list of sources I read in an academic context and recommend. It is not
 <ul>
   <li>
     <h4>Academic</h4>
-    <ul>
-      <li>C. Niebel, “The impact of the general data protection regulation on innovation and the global political economy,” Computer Law & Security Review, vol. 40, p. 105523, 2021, doi: <a href="https://doi.org/10.1016/j.clsr.2020.105523">https://doi.org/10.1016/j.clsr.2020.105523</a>.</li>
-      <li>Z. Deng and J. Dai, “First Court Judgment on Cross-Border Personal Information Transfer in China: Local Adaptation Required for Multinational Companies’ GDPR Privacy Policies”, Accessed: Jan. 30, 2025. [Online]. Available: <a href="https://www.lexology.com/library/detail.aspx?g=0ef7b467-b539-44b0-b138-b77ef0ac3767">https://www.lexology.com/library/detail.aspx?g=0ef7b467-b539-44b0-b138-b77ef0ac3767</a>.</li>
-      <li>D. Albrecht, “Chinese first Personal Information Protection Law in contrast to the European GDPR,” Computer Law Review International, vol. 23, no. 1, pp. 1–5, 2022, doi: doi:10.9785/cri-2022-230102.</li>
-  
+<ul>
+  <li>C. Niebel, “The impact of the general data protection regulation on innovation and the global political economy,” Computer Law & Security Review, vol. 40, p. 105523, 2021, doi: <a href="https://doi.org/10.1016/j.clsr.2020.105523">https://doi.org/10.1016/j.clsr.2020.105523</a>.</li>
+  <li>Z. Deng and J. Dai, “First Court Judgment on Cross-Border Personal Information Transfer in China: Local Adaptation Required for Multinational Companies’ GDPR Privacy Policies,” Accessed: Jan. 30, 2025. [Online]. Available: <a href="https://www.lexology.com/library/detail.aspx?g=0ef7b467-b539-44b0-b138-b77ef0ac3767">https://www.lexology.com/library/detail.aspx?g=0ef7b467-b539-44b0-b138-b77ef0ac3767</a>.</li>
+  <li>D. Albrecht, “Chinese first Personal Information Protection Law in contrast to the European GDPR,” Computer Law Review International, vol. 23, no. 1, pp. 1–5, 2022, doi: 10.9785/cri-2022-230102.</li>
+</ul>
 
-</li>
-    </ul>
   </li>
   <li>
   <h4>Other</h4>
